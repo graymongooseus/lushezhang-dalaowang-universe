@@ -1,0 +1,1635 @@
+{
+  "video_id": "iC8a1SW78PE",
+  "url": "https://www.youtube.com/watch?v=iC8a1SW78PE",
+  "title": "景甜、路征与万达：幕后关系假说及公开资料核对",
+  "published_at": "2026-09-15",
+  "publisher": "政经鲁社长",
+  "duration_seconds": 1664,
+  "recorded_at": "2026-09-23T00:12:11-07:00",
+  "summary": "本期讨论景甜、路征、王健林及陕西、福建、北京、河北政治人物。主播修正先前关于习远平的猜想，提出路征家族网络解释，并明确承认是猜测。已补充可核职务、演出、公开交往及日期反证。定位为 YouTube 章节范围，尚非逐句校时。",
+  "people": [
+    {
+      "name": "景甜",
+      "id": "p_jingtian",
+      "category": "演员主持人",
+      "bio": "演员，北京电影学院表演系本科毕业；本期中心人物",
+      "url": "https://www.1905.com/mdb/star/1177/",
+      "is_new": true
+    },
+    {
+      "name": "习远平",
+      "id": "p_xiyuanping",
+      "category": "其他名人",
+      "bio": "习仲勋之子、习近平之弟，曾任国际节能环保协会会长",
+      "url": "https://zh.wikipedia.org/wiki/%E4%B9%A0%E8%BF%9C%E5%B9%B3",
+      "is_new": true
+    },
+    {
+      "name": "王健林",
+      "id": "p_wangjianlin",
+      "category": "商业",
+      "bio": "万达集团董事长",
+      "url": "https://www.wanda.cn/about/chairman/",
+      "is_new": true
+    },
+    {
+      "name": "俞正声",
+      "id": "p_yuzhengsheng",
+      "category": "政治",
+      "bio": "曾任全国政协主席、上海市委书记",
+      "url": "https://www.bjtzb.gov.cn/wwwroot/sdtyzx/publish/article/218/10835.shtml",
+      "is_new": true
+    },
+    {
+      "name": "张峻",
+      "id": "p_zhangjun_funde",
+      "category": "商业",
+      "bio": "富德集团、富德保险控股负责人；按机构消歧",
+      "url": "https://www.funde-ins.com/jtgk/qyld/493273.shtml",
+      "is_new": true
+    },
+    {
+      "name": "景俊海",
+      "id": "p_jingjunhai",
+      "category": "政治",
+      "bio": "曾任陕西省委宣传部长、吉林省委书记",
+      "url": "https://jl.people.com.cn/n2/2020/1125/c349771-34437202.html",
+      "is_new": true
+    },
+    {
+      "name": "王思聪",
+      "id": "p_wangsicong",
+      "category": "商业",
+      "bio": "普思投资创办人，王健林之子",
+      "url": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%80%9D%E8%81%AA",
+      "is_new": true
+    },
+    {
+      "name": "贾庆林",
+      "id": "p_jiaqinglin",
+      "category": "政治",
+      "bio": "曾任全国政协主席、北京市委书记、福建省委书记",
+      "url": "https://www.cppcc.gov.cn/2011/09/22/ARTI1316659825496963.shtml",
+      "is_new": true
+    },
+    {
+      "name": "王兆国",
+      "id": "p_wangzhaoguo",
+      "category": "政治",
+      "bio": "曾任全国人大常委会副委员长、全国总工会主席",
+      "url": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%85%86%E5%9B%BD",
+      "is_new": true
+    },
+    {
+      "name": "路征",
+      "id": "p_luzheng",
+      "category": "商业",
+      "bio": "影视出品人、制片人，1905电影网有作品条目；家族说法未独立证实",
+      "url": "https://m.1905.com/m/star/workslist/3027570/",
+      "is_new": true
+    },
+    {
+      "name": "叶选廉",
+      "id": "p_yexuanlian",
+      "category": "商业",
+      "bio": "企业经营者，叶剑英之子",
+      "url": "https://zh.wikipedia.org/wiki/%E5%8F%B6%E9%80%89%E5%BB%89",
+      "is_new": true
+    },
+    {
+      "name": "曾庆淮",
+      "id": "p_zengqinghuai",
+      "category": "政治",
+      "bio": "曾任文化部特别巡视员、驻香港特派员",
+      "url": "https://zh.wikipedia.org/wiki/%E6%9B%BE%E5%BA%86%E6%B7%AE",
+      "is_new": true
+    },
+    {
+      "name": "李瑞山",
+      "id": "p_liruishan",
+      "category": "政治",
+      "bio": "曾任陕西省委第一书记、陕西省革命委员会主任",
+      "url": "https://zh.wikipedia.org/wiki/%E6%9D%8E%E7%91%9E%E5%B1%B1",
+      "is_new": true
+    },
+    {
+      "name": "霍士廉",
+      "id": "p_huoshilian",
+      "category": "政治",
+      "bio": "曾任陕西省委书记、农业部部长",
+      "url": "https://zh.wikipedia.org/wiki/%E9%9C%8D%E5%A3%AB%E5%BB%89",
+      "is_new": true
+    },
+    {
+      "name": "贾治邦",
+      "id": "p_jiazhibang",
+      "category": "政治",
+      "bio": "曾任陕西省省长、国家林业局局长",
+      "url": "https://www.gov.cn/gzdt/2010-06/08/content_1623416.htm",
+      "is_new": true
+    },
+    {
+      "name": "张勃兴",
+      "id": "p_zhangboxing",
+      "category": "政治",
+      "bio": "曾任陕西省省长、省委书记",
+      "url": "https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%8B%83%E5%85%B4",
+      "is_new": true
+    },
+    {
+      "name": "彭真",
+      "id": "p_pengzhen",
+      "category": "政治",
+      "bio": "曾任全国人大常委会委员长",
+      "url": "https://zh.wikipedia.org/wiki/%E5%BD%AD%E7%9C%9F",
+      "is_new": true
+    },
+    {
+      "name": "习仲勋",
+      "id": "p_xizhongxun",
+      "category": "政治",
+      "bio": "曾任国务院副总理、全国人大常委会副委员长",
+      "url": "https://zh.wikipedia.org/wiki/%E4%B9%A0%E4%BB%B2%E5%8B%8B",
+      "is_new": true
+    },
+    {
+      "name": "李建国",
+      "id": "p_lijianguo",
+      "category": "政治",
+      "bio": "曾任全国人大常委会副委员长、陕西省委书记",
+      "url": "https://npc.people.com.cn/n/2013/0318/c15257-20820773.html",
+      "is_new": true
+    },
+    {
+      "name": "贾治国",
+      "id": "p_jiazhiguo_shaanxi",
+      "category": "政治",
+      "bio": "陕西省委第四巡视组原组长；不与河北宗教人士等同名者混同",
+      "url": "https://meixian.qinfeng.gov.cn/info/1015/3577.htm",
+      "is_new": true
+    },
+    {
+      "name": "贾锋",
+      "id": "p_jiafeng_shaanxi",
+      "category": "政治",
+      "bio": "陕西省商务厅党组书记（2024年资料）；曾任陕西省政府副秘书长",
+      "url": "https://xatb.mofcom.gov.cn/tpjj/art/2024/art_e89eb4ea08a446b2b859e697fc18b5b8.html",
+      "is_new": true
+    },
+    {
+      "name": "江泽民",
+      "id": "p_jiangzemin",
+      "category": "政治",
+      "bio": "曾任中共中央总书记、国家主席、中央军委主席",
+      "url": "https://zh.wikipedia.org/wiki/%E6%B1%9F%E6%B3%BD%E6%B0%91",
+      "is_new": true
+    },
+    {
+      "name": "陈希同",
+      "id": "p_chenxitong",
+      "category": "政治",
+      "bio": "曾任北京市委书记、北京市市长",
+      "url": "https://zh.wikipedia.org/wiki/%E9%99%88%E5%B8%8C%E5%90%8C",
+      "is_new": true
+    },
+    {
+      "name": "李伯潭",
+      "id": "p_libotan",
+      "category": "商业",
+      "bio": "北京昭德置业董事长，曾任贵州茅台独立董事",
+      "url": "https://zh.wikipedia.org/wiki/%E6%9D%8E%E4%BC%AF%E6%BD%AD",
+      "is_new": true
+    },
+    {
+      "name": "贾蔷",
+      "id": "p_jiaqiang",
+      "category": "其他名人",
+      "bio": "贾庆林之女、李伯潭之妻；职业资料待补充",
+      "url": "https://zh.wikipedia.org/wiki/李伯潭",
+      "is_new": true
+    },
+    {
+      "name": "薄熙来",
+      "id": "p_boxilai",
+      "category": "政治",
+      "bio": "曾任大连市长、辽宁省长、商务部部长、重庆市委书记",
+      "url": "https://zh.wikipedia.org/wiki/%E8%96%84%E7%86%99%E6%9D%A5",
+      "is_new": true
+    },
+    {
+      "name": "邓朴方",
+      "id": "p_dengpufang",
+      "category": "政治",
+      "bio": "曾任全国政协副主席、中国残联主席",
+      "url": "https://zh.wikipedia.org/wiki/%E9%82%93%E6%9C%B4%E6%96%B9",
+      "is_new": true
+    },
+    {
+      "name": "刘明康",
+      "id": "p_liumingkang",
+      "category": "政治",
+      "bio": "原中国银监会主席，曾在福建任职",
+      "url": "https://www.cppcc.gov.cn/zxww/2017/03/09/ARTI1489025406355333.shtml",
+      "is_new": true
+    },
+    {
+      "name": "王新宇",
+      "id": "p_wangxinyu_wanda",
+      "category": "商业",
+      "bio": "纽约时报万达股权调查所述商人、王兆国之子；不与网球运动员同名者混同",
+      "url": "https://chinadigitaltimes.net/chinese/390766.html",
+      "is_new": true
+    },
+    {
+      "name": "温如春",
+      "id": "p_wenruchun",
+      "category": "商业",
+      "bio": "商界人士，温家宝之女",
+      "url": "https://www.icij.org/inside-icij/2014/01/whos-who-china-leaks/",
+      "is_new": true
+    },
+    {
+      "name": "邓家贵",
+      "id": "p_dengjiagui",
+      "category": "商业",
+      "bio": "商人，齐桥桥之夫",
+      "url": "https://www.icij.org/inside-icij/2014/01/whos-who-china-leaks/",
+      "is_new": true
+    },
+    {
+      "name": "齐桥桥",
+      "id": "p_qiqiaoqiao",
+      "category": "商业",
+      "bio": "商界人士，习近平之姐；由节目“大姐”称谓结合公开关系定位",
+      "url": "https://www.icij.org/inside-icij/2014/01/whos-who-china-leaks/",
+      "is_new": true
+    },
+    {
+      "name": "孙春兰",
+      "id": "p_sunchunlan",
+      "category": "政治",
+      "bio": "曾任国务院副总理、全国总工会党组书记",
+      "url": "https://zh.wikipedia.org/wiki/%E5%AD%99%E6%98%A5%E5%85%B0",
+      "is_new": true
+    },
+    {
+      "name": "陈豪",
+      "id": "p_chenhao_yunnan",
+      "category": "政治",
+      "bio": "曾任云南省委书记、全国总工会副主席；不是香港演员陈豪",
+      "url": "https://zh.wikipedia.org/wiki/陳豪_(1954年)",
+      "is_new": true
+    },
+    {
+      "name": "高虎城",
+      "id": "p_gaohucheng",
+      "category": "政治",
+      "bio": "曾任商务部部长，巴黎第七大学社会学博士",
+      "url": "https://gaohucheng.mofcom.gov.cn/article/resume/",
+      "is_new": true
+    },
+    {
+      "name": "蔡赴朝",
+      "id": "p_caifuchao",
+      "category": "政治",
+      "bio": "曾任国家新闻出版广电总局局长、北京市委宣传部长",
+      "url": "https://politics.people.com.cn/n/2013/0320/c351134-20853672.html",
+      "is_new": true
+    },
+    {
+      "name": "李易峰",
+      "id": "p_liyifeng",
+      "category": "演员主持人",
+      "bio": "中国内地演员、歌手",
+      "url": "https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%98%93%E5%B3%B0",
+      "is_new": true
+    },
+    {
+      "name": "江疏影",
+      "id": "p_jiangshuying",
+      "category": "演员主持人",
+      "bio": "中国内地演员",
+      "url": "https://zh.wikipedia.org/wiki/%E6%B1%9F%E7%96%8F%E5%BD%B1",
+      "is_new": true
+    },
+    {
+      "name": "秦岚",
+      "id": "p_qinlan",
+      "category": "演员主持人",
+      "bio": "中国内地演员、歌手",
+      "url": "https://zh.wikipedia.org/wiki/%E7%A7%A6%E5%B2%9A",
+      "is_new": true
+    },
+    {
+      "name": "张继科",
+      "id": "p_zhangjike",
+      "category": "其他名人",
+      "bio": "乒乓球运动员、奥运冠军",
+      "url": "https://zh.wikipedia.org/wiki/%E5%BC%A0%E7%BB%A7%E7%A7%91",
+      "is_new": true
+    },
+    {
+      "name": "聂辰席",
+      "id": "p_niechenxi",
+      "category": "政治",
+      "bio": "曾任国家广播电视总局局长",
+      "url": "https://cpc.people.com.cn/GB/64162/123659/123782/7359502.html",
+      "is_new": true
+    },
+    {
+      "name": "铁凝",
+      "id": "p_tiening",
+      "category": "政治",
+      "bio": "作家、中国文联主席、第十四届全国人大常委会副委员长；按最高已收录公职归政治",
+      "url": "https://o.cflac.org.cn/zgwl/wlld/TieNing/",
+      "is_new": true
+    },
+    {
+      "name": "栗战书",
+      "id": "p_lizhanshu",
+      "category": "政治",
+      "bio": "曾任全国人大常委会委员长",
+      "url": "https://zh.wikipedia.org/wiki/%E6%A0%97%E6%88%98%E4%B9%A6",
+      "is_new": true
+    },
+    {
+      "name": "贾发林",
+      "id": "p_jiafalin",
+      "category": "政治",
+      "bio": "曾任沧州市委常委、宣传部部长；公开官方材料可确认姓名和地方任职",
+      "url": "https://zyj.beijing.gov.cn/sy/dwjl/202504/t20250428_4076492.html",
+      "is_new": true
+    },
+    {
+      "name": "赵薇",
+      "id": "p_zhaowei",
+      "category": "演员主持人",
+      "bio": "演员、导演",
+      "url": "https://zh.wikipedia.org/wiki/%E8%B5%B5%E8%96%87",
+      "is_new": true
+    },
+    {
+      "name": "刘烨",
+      "id": "p_liuye",
+      "category": "演员主持人",
+      "bio": "中国内地演员；不是同名艺术家",
+      "url": "https://en.wikipedia.org/wiki/Liu_Ye_(actor)",
+      "is_new": true
+    },
+    {
+      "name": "张丰毅",
+      "id": "p_zhangfengyi",
+      "category": "演员主持人",
+      "bio": "中国内地演员",
+      "url": "https://zh.wikipedia.org/wiki/%E5%BC%A0%E4%B8%B0%E6%AF%85",
+      "is_new": true
+    },
+    {
+      "name": "何润东",
+      "id": "p_herundong",
+      "category": "演员主持人",
+      "bio": "演员、歌手、导演",
+      "url": "https://zh.wikipedia.org/wiki/%E4%BD%95%E6%B6%A6%E4%B8%9C",
+      "is_new": true
+    },
+    {
+      "name": "郭寿宝",
+      "id": "p_guoshoubao",
+      "category": "商业",
+      "bio": "西安索宝实业集团董事长，《战国》监制",
+      "url": "https://news.sina.com.cn/c/p/2014-01-22/010929310582.shtml",
+      "is_new": true
+    },
+    {
+      "name": "孙红雷",
+      "id": "p_sunhonglei",
+      "category": "演员主持人",
+      "bio": "中国内地演员",
+      "url": "https://zh.wikipedia.org/wiki/%E5%AD%99%E7%BA%A2%E9%9B%B7",
+      "is_new": true
+    },
+    {
+      "name": "吴镇宇",
+      "id": "p_wuzhenyu",
+      "category": "演员主持人",
+      "bio": "香港演员",
+      "url": "https://zh.wikipedia.org/wiki/%E5%90%B4%E9%95%87%E5%AE%87",
+      "is_new": true
+    },
+    {
+      "name": "金喜善",
+      "id": "p_kimheesun",
+      "category": "演员主持人",
+      "bio": "韩国演员；属于节目具名演员，不是外国国家元首",
+      "url": "https://zh.wikipedia.org/wiki/%E9%87%91%E5%96%9C%E5%96%84",
+      "is_new": true
+    },
+    {
+      "name": "姜武",
+      "id": "p_jiangwu",
+      "category": "演员主持人",
+      "bio": "中国内地演员",
+      "url": "https://zh.wikipedia.org/wiki/%E5%A7%9C%E6%AD%A6",
+      "is_new": true
+    },
+    {
+      "name": "林克庆",
+      "id": "p_linkeqing",
+      "category": "政治",
+      "bio": "曾任广州市委书记，广东省政协主席",
+      "url": "https://zh.wikipedia.org/wiki/%E6%9E%97%E5%85%8B%E5%BA%86",
+      "is_new": true
+    },
+    {
+      "name": "郑爽",
+      "id": "p_zhengshuang",
+      "category": "演员主持人",
+      "bio": "1991年出生的演员，节目末尾用作类比；不与1966年出生的同名演员混同",
+      "url": "https://zh.wikipedia.org/wiki/%E9%83%91%E7%88%BD",
+      "is_new": true
+    }
+  ],
+  "proofs": {
+    "jingtian": [
+      "景甜资料",
+      "https://www.1905.com/mdb/star/1177/",
+      "1905电影网",
+      null
+    ],
+    "wangjianlin": [
+      "王健林简介",
+      "https://www.wanda.cn/about/chairman/",
+      "万达集团",
+      null
+    ],
+    "yuzhengsheng": [
+      "俞正声当选全国政协主席",
+      "https://www.bjtzb.gov.cn/wwwroot/sdtyzx/publish/article/218/10835.shtml",
+      "北京统战部",
+      "2013-03-11"
+    ],
+    "zhangjun_funde": [
+      "企业领导：张峻",
+      "https://www.funde-ins.com/jtgk/qyld/493273.shtml",
+      "富德保险控股",
+      null
+    ],
+    "jingjunhai": [
+      "景俊海同志简历",
+      "https://jl.people.com.cn/n2/2020/1125/c349771-34437202.html",
+      "人民网",
+      "2020-11-25"
+    ],
+    "jiaqinglin": [
+      "贾庆林简历",
+      "https://www.cppcc.gov.cn/2011/09/22/ARTI1316659825496963.shtml",
+      "全国政协",
+      "2011-09-22"
+    ],
+    "luzheng": [
+      "路征作品表",
+      "https://m.1905.com/m/star/workslist/3027570/",
+      "1905电影网",
+      null
+    ],
+    "jiazhiguo_shaanxi": [
+      "陕西省委第四巡视组组长贾治国",
+      "https://meixian.qinfeng.gov.cn/info/1015/3577.htm",
+      "眉县纪委监委",
+      "2021-02-23"
+    ],
+    "jiafeng_shaanxi": [
+      "陕西省商务厅党组书记贾锋出席会议",
+      "https://xatb.mofcom.gov.cn/tpjj/art/2024/art_e89eb4ea08a446b2b859e697fc18b5b8.html",
+      "商务部驻西安特派员办事处",
+      "2024-01-12"
+    ],
+    "jiazhibang": [
+      "国家林业局局长贾治邦活动",
+      "https://www.gov.cn/gzdt/2010-06/08/content_1623416.htm",
+      "中国政府网",
+      "2010-06-08"
+    ],
+    "lijianguo": [
+      "李建国简历",
+      "https://npc.people.com.cn/n/2013/0318/c15257-20820773.html",
+      "人民网",
+      "2013-03-18"
+    ],
+    "liumingkang": [
+      "刘明康履历",
+      "https://www.cppcc.gov.cn/zxww/2017/03/09/ARTI1489025406355333.shtml",
+      "全国政协",
+      "2017-03-09"
+    ],
+    "wangxinyu_wanda": [
+      "万达股权调查（纽约时报转载）",
+      "https://chinadigitaltimes.net/chinese/390766.html",
+      "中国数字时代／纽约时报",
+      "2015-04-28"
+    ],
+    "wenruchun": [
+      "Who’s Who in China Leaks",
+      "https://www.icij.org/inside-icij/2014/01/whos-who-china-leaks/",
+      "ICIJ",
+      "2014-01-22"
+    ],
+    "dengjiagui": [
+      "Who’s Who in China Leaks",
+      "https://www.icij.org/inside-icij/2014/01/whos-who-china-leaks/",
+      "ICIJ",
+      "2014-01-22"
+    ],
+    "qiqiaoqiao": [
+      "Who’s Who in China Leaks",
+      "https://www.icij.org/inside-icij/2014/01/whos-who-china-leaks/",
+      "ICIJ",
+      "2014-01-22"
+    ],
+    "gaohucheng": [
+      "高虎城履历",
+      "https://gaohucheng.mofcom.gov.cn/article/resume/",
+      "商务部",
+      null
+    ],
+    "caifuchao": [
+      "蔡赴朝简历",
+      "https://politics.people.com.cn/n/2013/0320/c351134-20853672.html",
+      "人民网",
+      "2013-03-20"
+    ],
+    "tiening": [
+      "中国文联领导：铁凝",
+      "https://o.cflac.org.cn/zgwl/wlld/TieNing/",
+      "中国文联",
+      null
+    ],
+    "jiafalin": [
+      "医联体签约活动：原沧州市委常委、宣传部长贾发林",
+      "https://zyj.beijing.gov.cn/sy/dwjl/202504/t20250428_4076492.html",
+      "北京市中医药管理局",
+      "2025-04-28"
+    ],
+    "guoshoubao": [
+      "郭寿宝捐赠社区物资",
+      "https://news.sina.com.cn/c/p/2014-01-22/010929310582.shtml",
+      "华商报／新浪",
+      "2014-01-22"
+    ],
+    "niechenxi": [
+      "聂辰席简历",
+      "https://cpc.people.com.cn/GB/64162/123659/123782/7359502.html",
+      "人民网",
+      null
+    ]
+  },
+  "extra_sources": {
+    "wanda2016": [
+      "万达并购美国传奇影业签约",
+      "https://www.wanda.cn/mobile/2016/news_0112/1184.html",
+      "万达集团",
+      "2016-01-12"
+    ],
+    "penalty": [
+      "景甜违法广告代言行政处罚通报",
+      "https://www.samr.gov.cn/xw/df/art/2023/art_2bdd1110d6be480ba2df733047dceeea.html",
+      "国家市场监督管理总局／广州市市场监管局",
+      "2022-05-28"
+    ],
+    "gala2018": [
+      "2018央视春晚节目表",
+      "https://zh.wikipedia.org/wiki/2018年中国中央电视台春节联欢晚会",
+      "维基百科",
+      null
+    ],
+    "gala2019": [
+      "2019春晚《我们都是追梦人》",
+      "https://m.news.cctv.com/2019/02/04/ARTIcxFbzjmAFnKnGzClWIjX190204.shtml",
+      "央视网",
+      "2019-02-04"
+    ],
+    "baihua2019": [
+      "中国文联2019百花迎春专题",
+      "https://www.cflac.org.cn/wywzt/2019/2019bhyc/",
+      "中国文联",
+      "2019-01-17"
+    ],
+    "breakup": [
+      "景甜工作人员确认与张继科分手",
+      "https://news.sina.com.cn/c/2019-06-09/doc-ihvhiqay4413629.shtml",
+      "新京报／新浪",
+      "2019-06-09"
+    ],
+    "zhanguo": [
+      "《战国》演职员资料",
+      "https://zh.wikipedia.org/wiki/战国_(电影)",
+      "维基百科",
+      null
+    ],
+    "guo_film": [
+      "景甜身后的郭寿宝与陕西影视资本",
+      "https://www.sohu.com/a/328176708_347578",
+      "贞观／搜狐",
+      null
+    ],
+    "jiafeng2019": [
+      "陕西省政府人事任免",
+      "https://renshi.people.com.cn/n1/2019/0917/c139617-31356595.html",
+      "人民网",
+      "2019-09-17"
+    ],
+    "nyt_wanda": [
+      "纽约时报万达股权调查及无干预证据说明",
+      "https://chinadigitaltimes.net/chinese/390766.html",
+      "中国数字时代／纽约时报",
+      "2015-04-28"
+    ],
+    "jia_family": [
+      "李伯潭家庭关系资料",
+      "https://zh.wikipedia.org/wiki/李伯潭",
+      "维基百科",
+      null
+    ]
+  },
+  "chapters": [
+    [
+      0,
+      328,
+      "开场与旧假说的四处缺口"
+    ],
+    [
+      328,
+      426,
+      "五项解释条件"
+    ],
+    [
+      426,
+      511,
+      "路征这一线索"
+    ],
+    [
+      511,
+      768,
+      "陕西家族与贾庆林网络"
+    ],
+    [
+      768,
+      1015,
+      "路征和万达"
+    ],
+    [
+      1015,
+      1085,
+      "万达和景甜的时间线"
+    ],
+    [
+      1085,
+      1303,
+      "景甜和春晚"
+    ],
+    [
+      1303,
+      1480,
+      "主播重构的故事"
+    ],
+    [
+      1480,
+      1664,
+      "后续事件与猜测声明"
+    ]
+  ],
+  "segments": [
+    {
+      "start_seconds": 0,
+      "end_seconds": 328,
+      "chapter_index": 0,
+      "title": "本期修正什么",
+      "people": [
+        "鲁社长",
+        "孙宇晨",
+        "景甜",
+        "习远平"
+      ],
+      "summary": "主播以孙宇晨近期发布内容引出景甜背景，说明上一期的排除法只是开放假说；批评二次传播把猜测说成定论。本期尝试新的解释，不等于已查明幕后人物。",
+      "claim_type": "主播推测",
+      "verification": "主播说法待核实",
+      "refs": []
+    },
+    {
+      "start_seconds": 0,
+      "end_seconds": 328,
+      "chapter_index": 0,
+      "title": "2017年万达危机的反事实",
+      "people": [
+        "王健林",
+        "习近平",
+        "俞正声",
+        "习远平",
+        "景甜"
+      ],
+      "summary": "主播将抽贷、出售文旅资产与所谓误解联系，称王健林经俞正声协调；反问若习远平真是景甜靠山，为何仍需付出巨大代价。这些私下协调、误解原因和救助链未有独立证据。",
+      "claim_type": "主播推测",
+      "verification": "主播说法待核实",
+      "refs": []
+    },
+    {
+      "start_seconds": 0,
+      "end_seconds": 328,
+      "chapter_index": 0,
+      "title": "张峻与北京文化",
+      "people": [
+        "张峻",
+        "习远平",
+        "景甜"
+      ],
+      "summary": "主播称习远平与张峻关系密切，并提及生命人寿2014年出资13.6亿元及北京文化转向影视；举《心花路放》《解救吾先生》《我不是潘金莲》《战狼2》《二代妖精》，用景甜未参与来质疑旧假说。姓名按富德官网核为张峻；金额、关系与选角因果待核。",
+      "claim_type": "主播推测",
+      "verification": "主播说法待核实",
+      "refs": [
+        "zhangjun_funde"
+      ]
+    },
+    {
+      "start_seconds": 0,
+      "end_seconds": 328,
+      "chapter_index": 0,
+      "title": "春晚时间为何是2018和2019",
+      "people": [
+        "景甜",
+        "习远平"
+      ],
+      "summary": "主播认为如果有足够强的央视关系，景甜本可更早上春晚；未早登台不能单独证明或否定私人关系。公开演出与所谓幕后安排分开。",
+      "claim_type": "主播推测",
+      "verification": "主播说法待核实",
+      "refs": []
+    },
+    {
+      "start_seconds": 0,
+      "end_seconds": 328,
+      "chapter_index": 0,
+      "title": "陕西国资、景俊海和中影",
+      "people": [
+        "景甜",
+        "景俊海"
+      ],
+      "summary": "主播称早期支持主要来自曲江地方文化公司；对比景俊海2012—2015年在陕西宣传系统任职时的《大秦帝国》《东方帝王谷》《王大花的革命生涯》《白鹿原》等项目，称景甜未出演。其履历可核，未参与某片不能证明不存在支持。",
+      "claim_type": "主播推测",
+      "verification": "主播说法待核实",
+      "refs": [
+        "jingjunhai"
+      ]
+    },
+    {
+      "start_seconds": 0,
+      "end_seconds": 328,
+      "chapter_index": 0,
+      "title": "三部中影相关电影",
+      "people": [
+        "景甜",
+        "路征"
+      ],
+      "summary": "主播分别讨论《越来越好之村晚》的客串、《警察故事2013》的发行合作、《特殊身份》的联合投资，推论国资支持有限；本库不把作品发行、投资与演员选角混为一项私人关系。",
+      "claim_type": "主播推测",
+      "verification": "主播说法待核实",
+      "refs": [
+        "jingtian"
+      ]
+    },
+    {
+      "start_seconds": 0,
+      "end_seconds": 328,
+      "chapter_index": 0,
+      "title": "旧答案被降为候选解释",
+      "people": [
+        "习远平",
+        "景甜"
+      ],
+      "summary": "主播把习远平形容为解释范围的上限，认为另一个影响力较小的人也可能解释现象。这是推理框架变化；不新增景甜与习远平的恋爱或资助事实边。",
+      "claim_type": "主播推测",
+      "verification": "主播说法待核实",
+      "refs": []
+    },
+    {
+      "start_seconds": 328,
+      "end_seconds": 426,
+      "chapter_index": 1,
+      "title": "五项条件：陕西资源与万达",
+      "people": [
+        "景甜",
+        "王健林",
+        "王思聪"
+      ],
+      "summary": "主播提出新假说须同时解释：陕西民企和曲江国企资金、万达支持、王思聪被要求避谈景甜。所谓封口令和政策资源交换未证实。",
+      "claim_type": "主播推测",
+      "verification": "主播说法待核实",
+      "refs": []
+    },
+    {
+      "start_seconds": 328,
+      "end_seconds": 426,
+      "chapter_index": 1,
+      "title": "五项条件：既有股东与演艺时间线",
+      "people": [
+        "景甜",
+        "温家宝",
+        "温如春",
+        "贾庆林",
+        "李伯潭",
+        "王兆国",
+        "王新宇"
+      ],
+      "summary": "主播把领导人亲属与万达投资联系，用其政治资源作比较，并列出2013年起合作、2016年支持最强、2018年关系结束等节点。投资主体和自然人本人须分开；所谓分手年份仍属假说。",
+      "claim_type": "主播推测",
+      "verification": "主播说法待核实",
+      "refs": [
+        "nyt_wanda"
+      ]
+    },
+    {
+      "start_seconds": 426,
+      "end_seconds": 511,
+      "chapter_index": 2,
+      "title": "候选人名单不等于关系名单",
+      "people": [
+        "景甜",
+        "路征",
+        "叶选廉",
+        "曾庆淮",
+        "景俊海",
+        "习远平"
+      ],
+      "summary": "主播列出社会上流传的五个候选人，称只有路征有可追查的公司和制片联系。其余人作为节目提及收录，不因列入候选名单而创建亲密关系。",
+      "claim_type": "传闻列举",
+      "verification": "主播说法待核实",
+      "refs": []
+    },
+    {
+      "start_seconds": 426,
+      "end_seconds": 511,
+      "chapter_index": 2,
+      "title": "路征的制作身份与代持猜想",
+      "people": [
+        "路征",
+        "景甜"
+      ],
+      "summary": "主播称路征曾是星光灿烂股东及法定代表人、多部作品制片人，同时质疑其很少露面、资产资料难查；由此引出代持人的猜想。1905可核制作人身份；股权、法定代表人变更和代持不能由制作人条目证明。",
+      "claim_type": "主播推测",
+      "verification": "主播说法待核实",
+      "refs": [
+        "luzheng"
+      ]
+    },
+    {
+      "start_seconds": 511,
+      "end_seconds": 768,
+      "chapter_index": 3,
+      "title": "未具名大舅与两位陕西领导",
+      "people": [
+        "路征",
+        "李瑞山",
+        "霍士廉"
+      ],
+      "summary": "主播称路征父亲普通、外公是西北局老干部、大舅给李瑞山和霍士廉任警卫秘书。外公、大舅及父亲均未具名，不能用任何同姓人物补位；亲属与秘书经历待证。",
+      "claim_type": "家族转述",
+      "verification": "主播说法待核实",
+      "refs": []
+    },
+    {
+      "start_seconds": 511,
+      "end_seconds": 768,
+      "chapter_index": 3,
+      "title": "贾治邦与张勃兴",
+      "people": [
+        "路征",
+        "贾治邦",
+        "张勃兴"
+      ],
+      "summary": "主播称贾治邦是路征二舅、做过张勃兴秘书，后任陕西省长、国家林业局长。公开任职身份与路征家族、秘书关系分别判断；后两项仅有节目说法。",
+      "claim_type": "家族转述",
+      "verification": "主播说法待核实",
+      "refs": [
+        "jiazhibang"
+      ]
+    },
+    {
+      "start_seconds": 511,
+      "end_seconds": 768,
+      "chapter_index": 3,
+      "title": "张勃兴与彭真、习仲勋",
+      "people": [
+        "张勃兴",
+        "彭真",
+        "习仲勋"
+      ],
+      "summary": "主播称张勃兴与彭真有亲属联系、与习仲勋家族多往来。亲属类型、往来年月和实际活动均不详，暂记为主播关系主张，不补造家谱。",
+      "claim_type": "关系转述",
+      "verification": "主播说法待核实",
+      "refs": []
+    },
+    {
+      "start_seconds": 511,
+      "end_seconds": 768,
+      "chapter_index": 3,
+      "title": "陕北圈层评价",
+      "people": [
+        "贾治邦",
+        "李建国"
+      ],
+      "summary": "主播评价贾治邦重乡情、宽于待人，称连竞争者也服气、李建国要礼让；据此描述所谓陕北圈层地位。性格评价、地位和礼让不作客观亲疏分数。",
+      "claim_type": "主播评价",
+      "verification": "主播说法待核实",
+      "refs": []
+    },
+    {
+      "start_seconds": 511,
+      "end_seconds": 768,
+      "chapter_index": 3,
+      "title": "贾治国、贾锋与匿名亲属",
+      "people": [
+        "路征",
+        "贾治国",
+        "贾锋"
+      ],
+      "summary": "主播称贾治国是三舅并在陕西法院、巡视系统工作，称贾锋是表哥；另称舅母在陕西银监系统、表嫂在高校管人事。官方资料可定位巡视组组长贾治国及商务厅党组书记贾锋；2024年厅长另有其人，不能写成贾锋任厅长。亲属链未核实。",
+      "claim_type": "家族转述",
+      "verification": "主播说法待核实",
+      "refs": [
+        "jiazhiguo_shaanxi",
+        "jiafeng_shaanxi",
+        "jiafeng2019"
+      ]
+    },
+    {
+      "start_seconds": 511,
+      "end_seconds": 768,
+      "chapter_index": 3,
+      "title": "母亲线索尚不能实名建档",
+      "people": [
+        "路征",
+        "贾庆林"
+      ],
+      "summary": "主播给出路征母亲姓名音节并称曾任陕西驻京办副主任，能接触中央领导。本次没有找到足以将该姓名、职务和路征母亲三者对应的公开来源；进入待确认清单，不配照片、不补父母节点。",
+      "claim_type": "身份待确认",
+      "verification": "主播说法待核实",
+      "refs": []
+    },
+    {
+      "start_seconds": 511,
+      "end_seconds": 768,
+      "chapter_index": 3,
+      "title": "贾庆林与江泽民的交往轶事",
+      "people": [
+        "贾庆林",
+        "江泽民"
+      ],
+      "summary": "主播讲述两人在机械工业系统做同事、邻居，贾庆林帮助搬米和蜂窝煤的故事，并将后续升迁归于私人关系。官方履历支持部分任职节点，不支持搬运轶事或提拔因果。",
+      "claim_type": "轶事转述",
+      "verification": "主播说法待核实",
+      "refs": [
+        "jiaqinglin"
+      ]
+    },
+    {
+      "start_seconds": 511,
+      "end_seconds": 768,
+      "chapter_index": 3,
+      "title": "从福建到北京及政协",
+      "people": [
+        "贾庆林",
+        "陈希同",
+        "江泽民"
+      ],
+      "summary": "主播串联贾庆林1985年赴福建、其后任省长及书记、调北京、十六大后入常委和主持政协，称与陈希同落马及江泽民支持有关。履历与私人操作分栏记录，不能把前后发生直接当成因果。",
+      "claim_type": "任职与因果混合",
+      "verification": "主播说法待核实",
+      "refs": [
+        "jiaqinglin"
+      ]
+    },
+    {
+      "start_seconds": 511,
+      "end_seconds": 768,
+      "chapter_index": 3,
+      "title": "贾庆林与习近平的福建交集",
+      "people": [
+        "贾庆林",
+        "习近平",
+        "江泽民"
+      ],
+      "summary": "主播称贾庆林在福建长期领导习近平，帮助其晋升并引入江泽民视野。任职重叠可查，私人引荐与具体提拔主张未证实；“约11年”不直接作为整段直接上下级时间。",
+      "claim_type": "关系推断",
+      "verification": "主播说法待核实",
+      "refs": []
+    },
+    {
+      "start_seconds": 511,
+      "end_seconds": 768,
+      "chapter_index": 3,
+      "title": "拟制亲属与协调能力",
+      "people": [
+        "路征",
+        "贾庆林",
+        "李伯潭",
+        "贾蔷"
+      ],
+      "summary": "主播明确称路征母亲与贾庆林没有血缘，却被当作妹妹，进而推测全国性协调能力；又比较李伯潭经妻子贾蔷协调与母亲直接请托的便利。因母亲身份未核，不构造已证实干亲关系，也不据此认定任何人代持。",
+      "claim_type": "关系推断",
+      "verification": "主播说法待核实",
+      "refs": [
+        "jia_family"
+      ]
+    },
+    {
+      "start_seconds": 768,
+      "end_seconds": 1015,
+      "chapter_index": 4,
+      "title": "代理、煤矿与影视兴趣",
+      "people": [
+        "路征"
+      ],
+      "summary": "主播称路征先做爱普生区域代理、后获陕西煤矿、随着煤价上涨积累财富，再转向影视圈。这些具体资产、合同、采矿权和收益没有公开文件支持。",
+      "claim_type": "经营经历转述",
+      "verification": "主播说法待核实",
+      "refs": []
+    },
+    {
+      "start_seconds": 768,
+      "end_seconds": 1015,
+      "chapter_index": 4,
+      "title": "匿名模特的私交传闻",
+      "people": [
+        "路征"
+      ],
+      "summary": "节目仅以周某某指称一名模特并暗示私交；没有可靠实名，不由“跳水”或行业标签反推姓名，不把网上候选人配进图谱。",
+      "claim_type": "匿名传闻",
+      "verification": "主播说法待核实",
+      "refs": []
+    },
+    {
+      "start_seconds": 768,
+      "end_seconds": 1015,
+      "chapter_index": 4,
+      "title": "万达迁京与政商关系解释",
+      "people": [
+        "王健林",
+        "薄熙来",
+        "邓朴方"
+      ],
+      "summary": "主播从2008年万达总部迁京解释其寻找全国性资源的动机，称结束与薄熙来的合作、与邓朴方合作不足。公开报道曾载王健林否认与薄熙来关系良好；本库保留反向说法，不认定依附关系。",
+      "claim_type": "动机推测",
+      "verification": "主播说法待核实",
+      "refs": [
+        "nyt_wanda"
+      ]
+    },
+    {
+      "start_seconds": 768,
+      "end_seconds": 1015,
+      "chapter_index": 4,
+      "title": "贾庆林与王健林头衔",
+      "people": [
+        "王健林",
+        "贾庆林",
+        "路征"
+      ],
+      "summary": "主播称路征母亲引荐王健林认识贾庆林，并帮其成为政协常委、工商联副主席及落地西安两处万达项目。王健林公开履历有相关职务；引荐、干预与项目交换没有因此获得证明。",
+      "claim_type": "主播推测",
+      "verification": "主播说法待核实",
+      "refs": [
+        "wangjianlin"
+      ]
+    },
+    {
+      "start_seconds": 768,
+      "end_seconds": 1015,
+      "chapter_index": 4,
+      "title": "刘明康与银行授信",
+      "people": [
+        "刘明康",
+        "贾庆林",
+        "王健林"
+      ],
+      "summary": "主播称刘明康在福建任职时与贾庆林有工作关系，又称王健林经引荐得到其支持并获全国银行授信。福建任职与银监会主席身份可核；授信决策主体、金额、私下协调原因未核。",
+      "claim_type": "主播推测",
+      "verification": "主播说法待核实",
+      "refs": [
+        "liumingkang"
+      ]
+    },
+    {
+      "start_seconds": 768,
+      "end_seconds": 1015,
+      "chapter_index": 4,
+      "title": "49%持股和代持主张",
+      "people": [
+        "路征",
+        "王健林"
+      ],
+      "summary": "主播声称路征持万达陕西公司49%股份、也持集团股份，且用代持解释工商中查不到，另提其办公室在北京万达广场楼上。未指出完整公司名称、年份、代持文件和持股链，只存待核主张。",
+      "claim_type": "持股主张",
+      "verification": "主播说法待核实",
+      "refs": []
+    },
+    {
+      "start_seconds": 768,
+      "end_seconds": 1015,
+      "chapter_index": 4,
+      "title": "地产商与关系户的概括",
+      "people": [
+        "路征",
+        "王健林"
+      ],
+      "summary": "主播用地方关系、土地和授信解释地产合作，提及世纪金源外围的合展集团、中国华力及匿名国际女星母亲，并插入政府主导经济的议论。组织不作为人物；匿名女星及母亲不按网友猜测实名化。",
+      "claim_type": "行业评论",
+      "verification": "主播说法待核实",
+      "refs": []
+    },
+    {
+      "start_seconds": 768,
+      "end_seconds": 1015,
+      "chapter_index": 4,
+      "title": "万达股东中的家属和商业伙伴",
+      "people": [
+        "王新宇",
+        "王兆国",
+        "温如春",
+        "温家宝",
+        "邓家贵",
+        "习近平",
+        "李伯潭",
+        "贾庆林"
+      ],
+      "summary": "主播将四组家属称为权贵股东。纽约时报调查可核部分投资链，但温如春相关项涉及商业伙伴，李伯潭涉及关联公司，不能一概简写成本人直接持股，更不能证明父辈干预交易。",
+      "claim_type": "持股主张与外部核对",
+      "verification": "主播说法待核实",
+      "refs": [
+        "nyt_wanda"
+      ]
+    },
+    {
+      "start_seconds": 768,
+      "end_seconds": 1015,
+      "chapter_index": 4,
+      "title": "地方影响力的排序",
+      "people": [
+        "王新宇",
+        "王兆国",
+        "孙春兰",
+        "陈豪",
+        "温如春",
+        "齐桥桥",
+        "习仲勋",
+        "李伯潭",
+        "贾庆林",
+        "王健林"
+      ],
+      "summary": "主播认为王兆国家族主要影响孙春兰、陈豪，温如春能力有限、习近平姐姐依靠父辈旧交、李伯潭仍需谨慎；据此抬高匿名母亲的协调能力。全部属于影响力评价，不作事实等级或好感度。",
+      "claim_type": "主播评价",
+      "verification": "主播说法待核实",
+      "refs": []
+    },
+    {
+      "start_seconds": 1015,
+      "end_seconds": 1085,
+      "chapter_index": 5,
+      "title": "传奇影业收购与出演",
+      "people": [
+        "王健林",
+        "景甜"
+      ],
+      "summary": "主播以2015—2016年万达投入加大及《长城》《金刚：骷髅岛》《环太平洋：雷霆再起》出演解释关系。官方签约公告为2016-01-12；叙事后段将收购写到2015年，需纠正。不同影片角色分量也不宜都称女主角。",
+      "claim_type": "作品与时间核对",
+      "verification": "主播说法待核实",
+      "refs": [
+        "wanda2016"
+      ]
+    },
+    {
+      "start_seconds": 1015,
+      "end_seconds": 1085,
+      "chapter_index": 5,
+      "title": "高虎城与审批推测",
+      "people": [
+        "高虎城",
+        "贾庆林",
+        "王健林",
+        "景甜"
+      ],
+      "summary": "主播由高虎城早年外贸及机械进出口工作背景，推测尊重贾庆林可帮助并购审批。公开履历不证明某案干预；反垄断审查与境外投资审批也不能不加区分。",
+      "claim_type": "主播推测",
+      "verification": "主播说法待核实",
+      "refs": [
+        "gaohucheng"
+      ]
+    },
+    {
+      "start_seconds": 1015,
+      "end_seconds": 1085,
+      "chapter_index": 5,
+      "title": "蔡赴朝与影视审查推测",
+      "people": [
+        "蔡赴朝",
+        "贾庆林",
+        "景甜",
+        "王健林"
+      ],
+      "summary": "主播将蔡赴朝在北京办公厅、宣传系统的经历概括为贾庆林秘书与提拔，再推测对万达影视审查有利。官方职务可核，私人推荐、影片放行的因果待核。",
+      "claim_type": "主播推测",
+      "verification": "主播说法待核实",
+      "refs": [
+        "caifuchao"
+      ]
+    },
+    {
+      "start_seconds": 1015,
+      "end_seconds": 1085,
+      "chapter_index": 5,
+      "title": "陕西布局的另一解释",
+      "people": [
+        "路征",
+        "王健林",
+        "景甜"
+      ],
+      "summary": "主播认为2016年万达从西安扩展到陕西其他地区，更需要路征家族协调，因而增加景甜资源；未取得项目决策与角色安排之间的证明。",
+      "claim_type": "主播推测",
+      "verification": "主播说法待核实",
+      "refs": []
+    },
+    {
+      "start_seconds": 1085,
+      "end_seconds": 1303,
+      "chapter_index": 6,
+      "title": "2018和2019央视春晚",
+      "people": [
+        "景甜",
+        "李易峰",
+        "江疏影",
+        "秦岚"
+      ],
+      "summary": "景甜在2018年春晚与李易峰、江疏影演唱《赞赞新时代》，2019年与秦岚、江疏影等演唱《我们都是追梦人》。可建立同节目表演合作，不能据此推导私人联盟。",
+      "claim_type": "公开演出",
+      "verification": "公开证据支持",
+      "refs": [
+        "gala2018",
+        "gala2019"
+      ]
+    },
+    {
+      "start_seconds": 1085,
+      "end_seconds": 1303,
+      "chapter_index": 6,
+      "title": "文联春晚并非只出现一次",
+      "people": [
+        "景甜",
+        "铁凝"
+      ],
+      "summary": "主播强调景甜2018年主持文联活动及跨两个系统的难度。外部补充：中国文联2019专题也明确列其为主持人；“只有一次文联春晚”不是完整履历。该事实不证明铁凝个人安排。",
+      "claim_type": "公开活动与推测",
+      "verification": "主播说法待核实",
+      "refs": [
+        "baihua2019"
+      ]
+    },
+    {
+      "start_seconds": 1085,
+      "end_seconds": 1303,
+      "chapter_index": 6,
+      "title": "公开恋情与更早传闻",
+      "people": [
+        "景甜",
+        "张继科",
+        "路征"
+      ],
+      "summary": "主播称2017年11月普吉岛同游且旧关系尚未结束；该旅行及重叠关系未核。已公开证据可支持2018年3月28日公开恋情、2019年6月9日公布分手；公开时间不是实际开始或结束的精确日期。",
+      "claim_type": "公开交往与传闻",
+      "verification": "主播说法待核实",
+      "refs": [
+        "breakup"
+      ]
+    },
+    {
+      "start_seconds": 1085,
+      "end_seconds": 1303,
+      "chapter_index": 6,
+      "title": "微博和纹身被用作感情推断",
+      "people": [
+        "景甜",
+        "张继科"
+      ],
+      "summary": "主播援引2018年8月一则微博、互动减少、2019年初分手及去除纹身的媒体传闻，推测感情已转差。社交平台迹象不能直接填为实际分手日期。",
+      "claim_type": "媒体传闻",
+      "verification": "主播说法待核实",
+      "refs": []
+    },
+    {
+      "start_seconds": 1085,
+      "end_seconds": 1303,
+      "chapter_index": 6,
+      "title": "春晚邀约与所谓最后帮助",
+      "people": [
+        "景甜",
+        "张继科",
+        "路征"
+      ],
+      "summary": "主播以2018年秋的节目策划窗口，推测感情变化使原资助者愿最后帮助一次。策划窗口、知情程度和资助者决定没有独立来源；不制造2018年新的恋爱或金钱事件。",
+      "claim_type": "主播推测",
+      "verification": "主播说法待核实",
+      "refs": []
+    },
+    {
+      "start_seconds": 1085,
+      "end_seconds": 1303,
+      "chapter_index": 6,
+      "title": "聂辰席与铁凝的职务",
+      "people": [
+        "聂辰席",
+        "铁凝"
+      ],
+      "summary": "主播列两人在河北的经历、聂辰席2012年进入广电系统，以及铁凝1996年省作协、2006年中国作协、2016年中国文联的任职。官方资料支持相关职业身份；同省背景不自动构成派系。",
+      "claim_type": "任职背景",
+      "verification": "主播说法待核实",
+      "refs": [
+        "niechenxi",
+        "tiening"
+      ]
+    },
+    {
+      "start_seconds": 1085,
+      "end_seconds": 1303,
+      "chapter_index": 6,
+      "title": "栗战书、贾庆林和提拔论",
+      "people": [
+        "栗战书",
+        "贾庆林",
+        "聂辰席",
+        "铁凝",
+        "贾发林"
+      ],
+      "summary": "主播将两位文化主管的早期晋升归于贾庆林、后期晋升归于栗战书，并以贾发林在沧州工作解释贾庆林在河北的影响。履历、籍贯、亲属说法均不能独立证明提拔行为；亲属链另列待核。",
+      "claim_type": "主播推测",
+      "verification": "主播说法待核实",
+      "refs": []
+    },
+    {
+      "start_seconds": 1085,
+      "end_seconds": 1303,
+      "chapter_index": 6,
+      "title": "关系链被用于解释上春晚",
+      "people": [
+        "路征",
+        "贾庆林",
+        "聂辰席",
+        "铁凝",
+        "景甜"
+      ],
+      "summary": "主播用母亲与贾庆林、贾庆林与文化主管的关系推导景甜获照顾。多环节各自未核实，不能连乘为已证实的权力输送。",
+      "claim_type": "主播推测",
+      "verification": "主播说法待核实",
+      "refs": []
+    },
+    {
+      "start_seconds": 1303,
+      "end_seconds": 1480,
+      "chapter_index": 7,
+      "title": "“公司登记就是线索”的叙述",
+      "people": [
+        "路征",
+        "景甜"
+      ],
+      "summary": "主播认为路征可能已经足以解释五个现象，不必另找更高级别人物；公司出现制作人或股东并不能证明全部私人背景。",
+      "claim_type": "主播推测",
+      "verification": "主播说法待核实",
+      "refs": []
+    },
+    {
+      "start_seconds": 1303,
+      "end_seconds": 1480,
+      "chapter_index": 7,
+      "title": "早期相识、求学与家庭传闻",
+      "people": [
+        "路征",
+        "景甜"
+      ],
+      "summary": "主播将相识放在2004年，讲述年龄差、已有婚姻、公司设立、2007年入学及未经证实的生育、子女性别与长辈偏好。相识、婚姻、亲子主张无独立证据，不创建配偶或孩子档案。1905支持北影2007级本科经历，不能证明被他人安排入学。",
+      "claim_type": "未证实私生活叙事",
+      "verification": "主播说法待核实",
+      "refs": [
+        "jingtian"
+      ]
+    },
+    {
+      "start_seconds": 1303,
+      "end_seconds": 1480,
+      "chapter_index": 7,
+      "title": "《一个女人的史诗》",
+      "people": [
+        "路征",
+        "景甜",
+        "赵薇",
+        "刘烨"
+      ],
+      "summary": "主播称2008年路征投资该电视剧，赵薇、刘烨与景甜合作，并把阵容解释为捧新人；合作作品背景与“谁为谁作陪”的动机不同。",
+      "claim_type": "作品转述",
+      "verification": "主播说法待核实",
+      "refs": []
+    },
+    {
+      "start_seconds": 1303,
+      "end_seconds": 1480,
+      "chapter_index": 7,
+      "title": "《孙子大传》与《我的美女老板》",
+      "people": [
+        "路征",
+        "景甜",
+        "张丰毅",
+        "何润东"
+      ],
+      "summary": "主播称2009年投资《孙子大传》由张丰毅搭档，2010年路征担任《我的美女老板》出品人、总制片人，由何润东与景甜饰演情侣。角色关系不等于现实亲密关系。",
+      "claim_type": "作品转述",
+      "verification": "主播说法待核实",
+      "refs": [
+        "luzheng"
+      ]
+    },
+    {
+      "start_seconds": 1303,
+      "end_seconds": 1480,
+      "chapter_index": 7,
+      "title": "《战国》投资与演员",
+      "people": [
+        "路征",
+        "景甜",
+        "郭寿宝",
+        "孙红雷",
+        "吴镇宇",
+        "金喜善",
+        "姜武"
+      ],
+      "summary": "主播称郭寿宝和地方国企参与，提及1.5亿元成本、约8000万元票房、后续合计近4亿元投入，并将演员阵容归于高片酬。演职员身份有公开资料；各投资金额、片酬和动机仍须项目文件，不能说郭寿宝个人承担全部。",
+      "claim_type": "作品与金额转述",
+      "verification": "主播说法待核实",
+      "refs": [
+        "zhanguo",
+        "guo_film"
+      ]
+    },
+    {
+      "start_seconds": 1303,
+      "end_seconds": 1480,
+      "chapter_index": 7,
+      "title": "王健林邀请入股与国际片推演",
+      "people": [
+        "王健林",
+        "王思聪",
+        "路征",
+        "景甜"
+      ],
+      "summary": "主播将入股、母亲协助并购、国际片选角和所谓封口令串成报答链；收购年份在此口述为2015年，与官方2016年签约公告不同。整条报答因果未证实。",
+      "claim_type": "主播推测",
+      "verification": "主播说法待核实",
+      "refs": [
+        "wanda2016"
+      ]
+    },
+    {
+      "start_seconds": 1303,
+      "end_seconds": 1480,
+      "chapter_index": 7,
+      "title": "2017年后关系与公司退出",
+      "people": [
+        "路征",
+        "景甜"
+      ],
+      "summary": "主播称2017年下半年关系出现裂痕，母亲仍安排春晚，其后路征退出公司、官微停更。未核实工商变更日，停更也不能证明已经解除私人关系。",
+      "claim_type": "关系结束推测",
+      "verification": "主播说法待核实",
+      "refs": []
+    },
+    {
+      "start_seconds": 1480,
+      "end_seconds": 1664,
+      "chapter_index": 8,
+      "title": "资源变化的价值判断",
+      "people": [
+        "景甜",
+        "路征"
+      ],
+      "summary": "主播把后续作品以网剧为主、缺少顶级院线资源解释为失去照顾，对合作演员等级作贬评。本库把它保存为评论，不据此给演员评级。",
+      "claim_type": "主播评价",
+      "verification": "主播说法待核实",
+      "refs": []
+    },
+    {
+      "start_seconds": 1480,
+      "end_seconds": 1664,
+      "chapter_index": 8,
+      "title": "匿名债权人与敲诈说法",
+      "people": [
+        "景甜",
+        "张继科"
+      ],
+      "summary": "主播把事件放在2019年底，提及匿名S先生、1700万元债务、私密材料敲诈和警方抓捕。此次未获得可核验的判决全文或警方通报对应这些细节；匿名人不实名化，不把节目叙述认定为张继科犯罪事实。",
+      "claim_type": "司法相关转述",
+      "verification": "主播说法待核实",
+      "refs": []
+    },
+    {
+      "start_seconds": 1480,
+      "end_seconds": 1664,
+      "chapter_index": 8,
+      "title": "2021年《司藤》",
+      "people": [
+        "景甜",
+        "路征"
+      ],
+      "summary": "主播称《司藤》在2021年春走红，提到9000万元成本并感慨投入大小不决定效果。播出年与此前制作时间不可混写；金额及路征是否出资未独立核实。",
+      "claim_type": "作品评价",
+      "verification": "主播说法待核实",
+      "refs": []
+    },
+    {
+      "start_seconds": 1480,
+      "end_seconds": 1664,
+      "chapter_index": 8,
+      "title": "广告处罚日期与所谓保护失灵",
+      "people": [
+        "景甜",
+        "林克庆",
+        "贾庆林"
+      ],
+      "summary": "主播把处罚放在2021年底，进而猜测景甜无法再借用关系，并称林克庆属于贾庆林网络。监管公告实际在2022-05-28公布，2021年底是发现线索；罚没合计722.12万元是行政处罚，不能写成判刑。关系保护与执法动机没有得到公告支持。",
+      "claim_type": "事实纠正与推测",
+      "verification": "有争议",
+      "refs": [
+        "penalty"
+      ]
+    },
+    {
+      "start_seconds": 1480,
+      "end_seconds": 1664,
+      "chapter_index": 8,
+      "title": "孙宇晨争议和郑爽类比",
+      "people": [
+        "景甜",
+        "孙宇晨",
+        "郑爽"
+      ],
+      "summary": "主播称2026年8月发生与孙宇晨的纠纷，担忧后续发展并以郑爽作类比。争议内容、发生日期及未来后果此次未独立核实；两位演员被类比不构成关系。",
+      "claim_type": "近期主张与预测",
+      "verification": "主播说法待核实",
+      "refs": []
+    },
+    {
+      "start_seconds": 1480,
+      "end_seconds": 1664,
+      "chapter_index": 8,
+      "title": "结尾的证据边界",
+      "people": [
+        "鲁社长",
+        "景甜",
+        "路征"
+      ],
+      "summary": "主播最终再次声明以上来自猜测，欢迎其他符合其五项条件的答案，并认为可能有多个解释。该免责声明适用于幕后网络、私人家庭和因果叙事；不能用完整故事感替代逐项证据。",
+      "claim_type": "主播声明",
+      "verification": "主播说法待核实",
+      "refs": []
+    }
+  ],
+  "unresolved": [
+    [
+      "路征母亲（姓名与身份待核）",
+      3,
+      "节目给出姓名音节，但尚无公开资料把具体姓名、驻京办职务与母子关系连在一起；不将同音字固化为真实姓名。"
+    ],
+    [
+      "路征父亲、外公、大舅、舅母、表嫂",
+      3,
+      "均未具名；父母、亲属及任职说法独立待核。"
+    ],
+    [
+      "周某某（模特）",
+      4,
+      "匿名称谓；不凭“跳水名模”标签猜测具体人物。"
+    ],
+    [
+      "某国际女星及其母亲",
+      4,
+      "没有具名；不把二次解读的候选姓名当成节目原意。"
+    ],
+    [
+      "S先生／匿名债权人",
+      8,
+      "身份未获可核原始裁判文书支持，不反推实名。"
+    ],
+    [
+      "路征配偶、景甜被指涉及的孩子",
+      7,
+      "未具名且亲子、婚姻主张无独立证明，不建立未成年人或配偶节点。"
+    ],
+    [
+      "江泽民夫妇中的妻子",
+      3,
+      "仅称夫妇，没有单独具名；本期不以外部推断扩展无实质事件的配偶档案。"
+    ]
+  ]
+}

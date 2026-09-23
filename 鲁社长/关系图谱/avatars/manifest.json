@@ -1,0 +1,661 @@
+{
+  "p_xi": {
+    "name": "Xi Jinping",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Prime_Minister_Keir_Starmer_visits_China_%2855066713683%29_%28cropped%2Bangle%29.jpg/330px-Prime_Minister_Keir_Starmer_visits_China_%2855066713683%29_%28cropped%2Bangle%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Xi_Jinping",
+    "file": "avatars/p_xi.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-22",
+    "license": "以来源页面许可为准，未统一核实转载授权"
+  },
+  "p_dong": {
+    "name": "Dong Jun",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Dong_Jun_%282024%29_%28cropped%29_2.jpg/330px-Dong_Jun_%282024%29_%28cropped%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Dong_Jun",
+    "file": "avatars/p_dong.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-22",
+    "license": "以来源页面许可为准，未统一核实转载授权"
+  },
+  "p_zhong": {
+    "name": "钟绍军",
+    "image": "https://pgw.udn.com.tw/gw/photo.php?exp=3600&sh=0&sw=0&u=https%3A%2F%2Fuc.udn.com.tw%2Fphoto%2Fwj%2Frealtime%2F2025%2F10%2F27%2F33496842.jpg&x=0&y=0",
+    "source": "https://udn.com/news/story/7331/9098808",
+    "download_error": "The read operation timed out",
+    "file": "avatars/p_zhong.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-22"
+  },
+  "p_ye": {
+    "name": "叶建春",
+    "image": "https://p6.itc.cn/q_70/images03/20220308/0c9986425a1441ca8976be3881e3f980.jpeg",
+    "source": "https://www.sohu.com/a/528113489_121106994",
+    "file": "avatars/p_ye.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-22",
+    "license": "以来源页面许可为准，未统一核实转载授权"
+  },
+  "p_marx": {
+    "name": "Karl Marx",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored.png/330px-Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Karl_Marx",
+    "file": "avatars/p_marx.png",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-22",
+    "license": "以来源页面许可为准，未统一核实转载授权"
+  },
+  "p_putin": {
+    "name": "Vladimir Putin",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_%2808-03-2024%29_%28cropped%29_%28higher_res%29_2.jpg/330px-%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_%2808-03-2024%29_%28cropped%29_%28higher_res%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Vladimir_Putin",
+    "file": "avatars/p_putin.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-22",
+    "license": "以来源页面许可为准，未统一核实转载授权"
+  },
+  "p_trump": {
+    "name": "Donald Trump",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/330px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Donald_Trump",
+    "file": "avatars/p_trump.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-22",
+    "license": "以来源页面许可为准，未统一核实转载授权"
+  },
+  "p_huang": {
+    "name": "黄峥",
+    "image": "https://static-hk.hstong.com/public/cms/images/2024/08/10/1028999007119712257.jpg",
+    "source": "https://www.hstong.com/news/detail/24081011550066927",
+    "file": "avatars/p_huang.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-22",
+    "license": "以来源页面许可为准，未统一核实转载授权"
+  },
+  "p_yuantengfei": {
+    "name": "袁腾飞",
+    "image": "https://valleyrain.org/img/2019-11-17-yuantengfei-1-new2.jpg",
+    "source": "https://valleyrain.org/event/2019/11/17/yuantengfei-1/",
+    "file": "avatars/p_yuantengfei.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-22",
+    "license": "以来源页面许可为准，未统一核实转载授权"
+  },
+  "p_liuzhongjing": {
+    "name": "刘仲敬",
+    "image": "https://image.xyzcdn.net/FuzfpM-90CroHoaGBKEgbKdnatYN.jpg",
+    "source": "https://www.xiaoyuzhoufm.com/podcast/6681a429a02782c579424ae5",
+    "file": "avatars/p_liuzhongjing.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-22",
+    "license": "以来源页面许可为准，未统一核实转载授权"
+  },
+  "p_hawking": {
+    "name": "Stephen Hawking",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Stephen_Hawking.StarChild.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "https://en.wikipedia.org/wiki/Stephen_Hawking",
+    "file": "avatars/p_hawking.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-22",
+    "license": "以来源页面许可为准，未统一核实转载授权"
+  },
+  "p_sunge": {
+    "name": "Justin Sun",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Head_of_the_Grenadian_Delegation_to_the_12th_World_Trade_Organization_Ministerial_Conference_Justin_Sun.jpg/330px-Head_of_the_Grenadian_Delegation_to_the_12th_World_Trade_Organization_Ministerial_Conference_Justin_Sun.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Justin_Sun",
+    "file": "avatars/p_sunge.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-22",
+    "license": "以来源页面许可为准，未统一核实转载授权"
+  },
+  "p_baishaokang": {
+    "error": "HTTP Error 404: Not Found",
+    "image": "http://renshi.people.com.cn/NMediaFile/2013/0403/MAIN201304031444000272188154020.jpg",
+    "source": "https://renshi.people.com.cn/n/2013/0403/c139617-21018353.html",
+    "file": "avatars/p_baishaokang.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-22"
+  },
+  "p_mengjianzhu": {
+    "name": "Meng Jianzhu",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Meng_Jianzhu_in_New_Delhi_on_November_09%2C_2016_%28cropped%29.jpg/330px-Meng_Jianzhu_in_New_Delhi_on_November_09%2C_2016_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Meng_Jianzhu",
+    "extract": "Meng Jianzhu is a retired Chinese politician best known for his term as the Secretary of the Central Political and Legal Affairs Commission of the Chinese Communist Party between 2012 and 2017. He also headed the Central Public Security Comprehensive Management Commission.",
+    "file": "avatars/p_mengjianzhu.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-22",
+    "license": "以来源页面许可为准，未统一核实转载授权"
+  },
+  "p_linwu": {
+    "name": "Lin Wu",
+    "image": "https://x0.ifengimg.com/ucms/2026_11/8C7AF4836C01DE64D71251F15707F5DFE009430F_size688_w1000_h1354.jpg",
+    "source": "https://sd.ifeng.com/c/8rIm7ZMvsAD",
+    "extract": "Lin Wu is a Chinese politician and the current Chinese Communist Party Committee Secretary of Shandong province. Previously, he served as CCP Committee Secretary of Shanxi province, Shanxi Governor, deputy governor and the chief of the CCP Organization Department of Jilin province.",
+    "file": "avatars/p_linwu.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-22",
+    "license": "见原始来源；未统一核实转载许可"
+  },
+  "p_tangdengjie": {
+    "name": "Tang Dengjie",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/%C4%90%C6%B0%E1%BB%9Dng_%C4%90%C4%83ng_Ki%E1%BB%87t%2C_2017.jpg/330px-%C4%90%C6%B0%E1%BB%9Dng_%C4%90%C4%83ng_Ki%E1%BB%87t%2C_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Tang_Dengjie",
+    "extract": "Tang Dengjie is a Chinese politician and business executive who is currently serving as the Party Secretary of Shanxi.",
+    "file": "avatars/p_tangdengjie.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-22",
+    "license": "以来源页面许可为准，未统一核实转载授权"
+  },
+  "p_wangxinwei": {
+    "name": "Wang Xinwei",
+    "image": "https://imgpai.thepaper.cn/newpai/image/1743415554058_tYtYYa_1743415554320.png",
+    "source": "https://www.thepaper.cn/newsDetail_forward_30533794",
+    "extract": "Wang Xinwei is a Chinese politician and member of the Chinese Communist Party (CCP), who is currently serving as the Governor of Liaoning as of March 2025. Previously, he served as CCP committee secretary and mayor of Shenyang from 2021 to 2025, and mayor of Zhengzhou (2018–2020) and Anyang (2015–2018).",
+    "download_error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "file": "avatars/p_wangxinwei.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-22"
+  },
+  "p_hexiangjian": {
+    "name": "He Xiangjian",
+    "image": "https://images.sbs.com.au/dims4/default/1162e63/2147483647/strip/true/crop/900x506%2B0%2B35/resize/1280x720%21/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fdrupal%2Fyourlanguage%2Fpublic%2F20200615000861he_xiang_jian_.jpg",
+    "source": "https://www.sbs.com.au/language/chinese/zh-hant/article/he-xiangjian-founder-of-midea-group-was-held-hostage/w3maa2gzd",
+    "extract": "He Xiangjian is the co-founder of Midea, one of China's largest appliance makers. In September 2021, his net worth was estimated to be $28.8 billion by Bloomberg Billionaires Index, positioning him at the 51st place in the index.",
+    "file": "avatars/p_hexiangjian.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-22",
+    "license": "见原始来源；未统一核实转载许可"
+  },
+  "p_huyaobang": {
+    "name": "Hu Yaobang",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Hu_Yaobang_and_Nilde_Iotti_%287%29_%284to3%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "https://en.wikipedia.org/wiki/Hu_Yaobang",
+    "extract": "Hu Yaobang was a Chinese politician who was a high-ranking official of the People's Republic of China. He held the top office of the Chinese Communist Party (CCP) from 1981 to 1987, first as Chairman from 1981 to 1982, then as General Secretary from 1982 to 1987. After the Cultural Revolution (1966–1976), Hu rose to prominence as a close ally of Deng Xiaoping, the paramount leader of China at the time.",
+    "file": "avatars/p_huyaobang.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-22",
+    "license": "以来源页面许可为准，未统一核实转载授权"
+  },
+  "p_zhaoziyang": {
+    "name": "Zhao Ziyang",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Bezoek_Chinese_premier_Zhao_Ziyang_%2C_met_premier_Lubbers_tijdens_regeringsdiner%2C_Bestanddeelnr_933-3563_%28cropped%29.jpg/330px-Bezoek_Chinese_premier_Zhao_Ziyang_%2C_met_premier_Lubbers_tijdens_regeringsdiner%2C_Bestanddeelnr_933-3563_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Zhao_Ziyang",
+    "extract": "Zhao Ziyang was a Chinese politician. He served as the premier of China from 1980 to 1987, as vice chairman of the Chinese Communist Party (CCP) from 1981 to 1982, and as the general secretary of the Chinese Communist Party from 1987 to 1989. He was in charge of the political reforms in China from 1986, but lost power for his support of the 1989 Tiananmen Square protests.",
+    "file": "avatars/p_zhaoziyang.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-22",
+    "license": "以来源页面许可为准，未统一核实转载授权"
+  },
+  "p_dengxiaoping": {
+    "name": "Deng Xiaoping",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Deng_Xiaoping_at_the_arrival_ceremony_for_the_Vice_Premier_of_China_%28cropped%29.jpg/330px-Deng_Xiaoping_at_the_arrival_ceremony_for_the_Vice_Premier_of_China_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Deng_Xiaoping",
+    "extract": "Deng Xiaoping was a Chinese statesman, revolutionary, and political theorist who served as the paramount leader of the People's Republic of China (PRC) from 1978 to 1989. Emerging as China's most influential figure after Mao Zedong's death in 1976, Deng consolidated political power and guided the country into an era of reform and opening up that transitioned the nation toward a socialist market economy. Credited as the \"architect of modern China\", he is recognized for shaping both socialism with Chinese characteristics and Deng Xiaoping Theory.",
+    "file": "avatars/p_dengxiaoping.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-22",
+    "license": "以来源页面许可为准，未统一核实转载授权"
+  },
+  "p_gongzheng": {
+    "name": "龚正",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/%E9%BE%9A%E6%AD%A3_2023-12-09.jpg/330px-%E9%BE%9A%E6%AD%A3_2023-12-09.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://zh.wikipedia.org/wiki/%E9%BE%9A%E6%AD%A3",
+    "extract": "龚正（1960年3月4日—），男，汉族，江苏苏州人，中国共产党、中华人民共和国政治人物。北京对外贸易学院（现对外经济贸易大学）海关管理系毕业，对外经济贸易大学工商管理学院工商管理专业在职工商管理硕士，厦门大学财政金融系财政学专业在职经济学博士，系中共第十九届、二十届中央委员。曾任中共上海市委副书记、上海市人民政府市长，中共山东省委副书记、山东省人民政府省长等职。\n",
+    "file": "avatars/p_gongzheng.jpg",
+    "kind": "人物照片"
+  },
+  "p_dengyaping": {
+    "name": "Deng Yaping",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/%E9%82%93%E4%BA%9A%E8%90%8D%E5%A5%B3%E5%A3%AB.png/330px-%E9%82%93%E4%BA%9A%E8%90%8D%E5%A5%B3%E5%A3%AB.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Deng_Yaping",
+    "extract": "Deng Yaping is a Chinese table tennis player who won eighteen world championships including four Olympic championships between 1989 and 1997. She is regarded as one of the greatest players in the history of the sport.",
+    "file": "avatars/p_dengyaping.png",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-22",
+    "license": "以来源页面许可为准，未统一核实转载授权"
+  },
+  "p_hujintao": {
+    "name": "胡锦涛",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Chinese_President_Hu_Jintao_in_2011.jpg/330px-Chinese_President_Hu_Jintao_in_2011.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://zh.wikipedia.org/wiki/%E8%83%A1%E9%94%A6%E6%B6%9B",
+    "extract": "胡錦濤（1942年12月21日—），祖籍安徽绩溪，生於江蘇泰县（今江蘇泰州），原正国级领导人，毕业于清华大学水利工程系。其于2002至2012年间担任中共中央總書記，2003至2013年间担任中華人民共和國主席，2004至2013年间担任中共中央軍委主席、国家军委主席等职务，是中国党、政、军第四代的最高领导人，其任内的中央领导集体被称为“以胡锦涛同志为总书记的党中央”。\n",
+    "file": "avatars/p_hujintao.jpg",
+    "kind": "人物照片"
+  },
+  "p_musk": {
+    "name": "Elon Musk",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Elon_Musk_-_54820081119_%28cropped%29.jpg/330px-Elon_Musk_-_54820081119_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Elon_Musk",
+    "extract": "Elon Reeve Musk is a businessman and former public official who is the chief executive officer (CEO) and largest shareholder of Tesla and SpaceX. Musk has been the wealthiest person in the world since 2025, and briefly became the only trillionaire in June 2026; as of September 2026, Forbes estimates his net worth to be US$964 billion.",
+    "file": "avatars/p_musk.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-22",
+    "license": "以来源页面许可为准，未统一核实转载授权"
+  },
+  "p_wenjiabao": {
+    "name": "温家宝",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Wen_Jiabao_-_Annual_Meeting_of_the_New_Champions_2012.jpg/330px-Wen_Jiabao_-_Annual_Meeting_of_the_New_Champions_2012.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://zh.wikipedia.org/wiki/%E6%B8%A9%E5%AE%B6%E5%AE%9D",
+    "extract": "温家宝（1942年9月15日—），天津人，中国共产党和中华人民共和国政治人物，原正国级领导人。本科与硕士毕业于北京地质学院（现中国地质大学），为第十五届中共中央政治局委员，十六、十七届中共中央政治局常委，曾出任国务院副总理、总理等职务，是中共中央总书记胡锦涛执政时期的政府首脑。\n",
+    "file": "avatars/p_wenjiabao.jpg",
+    "kind": "人物照片"
+  },
+  "p_liuhaocun": {
+    "error": "HTTP Error 429: Too Many Requests",
+    "image": "https://pic8.iqiyipic.com/image/20251016/7e/c3/p_240312605_m_601_m2_1080_608.jpg",
+    "source": "https://www.iq.com/actor-info/haocun-liu-240312605?lang=id_id",
+    "file": "avatars/p_liuhaocun.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-22",
+    "license": "见原始来源；未统一核实转载许可"
+  },
+  "p_chen": {
+    "name": "陈增光",
+    "image": "https://p1.img.cctvpic.com/photoworkspace/contentimg/2020/06/27/2020062717140080363.jpg",
+    "source": "https://www.12371.cn/2020/05/25/ARTI1590341099132695.shtml",
+    "file": "avatars/p_chen.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-22",
+    "license": "以来源页面许可为准，未统一核实转载授权"
+  },
+  "p_lu": {
+    "name": "鲁社长",
+    "image": "https://yt3.googleusercontent.com/5RUVR0_r214Cb5Y4rAnaW9etU5xFy_xtxzWpCaZYO4_-_gYkIcqc94YY-vfACkwajxoqVo6g=s900-c-k-c0x00ffffff-no-rj",
+    "source": "https://www.youtube.com/@zrzjpl",
+    "file": "avatars/p_lu.jpg",
+    "kind": "频道头像（非真人照片）",
+    "accessed_at": "2026-09-22",
+    "license": "以来源页面许可为准，未统一核实转载授权"
+  },
+  "p_wang": {
+    "name": "王吉舟",
+    "image": "https://www.advancerichmond.ca/assets/version-d/candidates/candidate-jizhou-william-wang.jpg",
+    "source": "https://www.advancerichmond.ca/team/jizhou-william-wang/",
+    "file": "avatars/p_wang.jpg",
+    "kind": "候选人官方照片"
+  },
+  "p_tangfeifan": {
+    "image": "https://p1.itc.cn/q_70/images03/20220412/e7b5f862d77f47aab99d638d6213312f.jpeg",
+    "source": "https://www.sohu.com/a/537440525_121106832",
+    "file": "avatars/p_tangfeifan.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-22",
+    "license": "见原始来源；未统一核实转载许可"
+  },
+  "p_zoujinsong": {
+    "download_error": "cannot identify image file <_io.BytesIO object at 0x108e63470>",
+    "image": "https://rmrbcmsonline.peopleapp.com/upload/ueditor/image/20230623/1687509145486692.jpg",
+    "source": "https://www.peopleapp.com/column/30038558813-500003569338"
+  },
+  "p_lizhiyuan": {
+    "image": "https://p4.itc.cn/q_70/images03/20220211/c4f4efce2605434195deeaac383ee5d1.jpeg",
+    "source": "https://www.sohu.com/a/522150129_121123846",
+    "file": "avatars/p_lizhiyuan.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-22",
+    "license": "见原始来源；未统一核实转载许可"
+  },
+  "p_xujiayin": {
+    "title": "Hui Ka Yan",
+    "description": "Chinese businessman",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Xu_Jiayin_in_Aug%2C_2026_%28cropped%29.jpg/330px-Xu_Jiayin_in_Aug%2C_2026_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Hui_Ka_Yan",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Xu_Jiayin_in_Aug%2C_2026_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "avatars/p_xujiayin.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "Wikimedia Commons，具体作者及许可见图片页面；保留来源链接"
+  },
+  "p_liuluanxiong": {
+    "title": "Joseph Lau",
+    "description": "Hong Kong businessman (born 1951)",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Joseph_Lau_2021.jpg/330px-Joseph_Lau_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Joseph_Lau",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Joseph_Lau_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "avatars/p_liuluanxiong.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "Wikimedia Commons，具体作者及许可见图片页面；保留来源链接"
+  },
+  "p_lijiaxin": {
+    "title": "Michele Reis",
+    "description": "Hong Kong actress (born 1970)",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Michelle_Reis_SHISEIDO_%283%29.jpg/330px-Michelle_Reis_SHISEIDO_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Michele_Reis",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Michelle_Reis_SHISEIDO_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "avatars/p_lijiaxin.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "Wikimedia Commons，具体作者及许可见图片页面；保留来源链接"
+  },
+  "p_guanzhilin": {
+    "title": "Rosamund Kwan",
+    "description": "Hong Kong actress",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Rosamund_Kwan_20181206.png/330px-Rosamund_Kwan_20181206.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Rosamund_Kwan",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/73/Rosamund_Kwan_20181206.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "avatars/p_guanzhilin.png",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "Wikimedia Commons，具体作者及许可见图片页面；保留来源链接"
+  },
+  "p_ninggaoning": {
+    "image": "https://www.sinochem.com/Portals/0/BatchImagesThumb/2022/0629/637921209950911477.jpg",
+    "source": "https://www.sinochem.com/zhjt/xwzx/jtdt/2024/10/I1294309057259110400.html",
+    "file": "avatars/p_ninggaoning.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "许可依原来源；图片用于人物研究索引"
+  },
+  "p_lijiacheng": {
+    "title": "Li Ka-shing",
+    "description": "Hong Kong entrepreneur (born 1928)",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Li_Ka_Shing.jpg/330px-Li_Ka_Shing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Li_Ka-shing",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Li_Ka_Shing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "avatars/p_lijiacheng.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "Wikimedia Commons，具体作者及许可见图片页面；保留来源链接"
+  },
+  "p_wangshi": {
+    "title": "Wang Shi (entrepreneur)",
+    "description": "Chinese businessman (born 1951)",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Wang_Shi_2023.jpg/330px-Wang_Shi_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Wang_Shi_(entrepreneur)",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Wang_Shi_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "file": "avatars/p_wangshi.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "Wikimedia Commons，具体作者及许可见图片页面；保留来源链接"
+  },
+  "p_yuliang": {
+    "image": "https://www.vanke.com/upload/img/2019-05-07/6de51fd3-f928-4faa-86c3-3be5f6783c0d.jpg",
+    "source": "https://www.vanke.com/about/team",
+    "file": "avatars/p_yuliang.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "原机构公开照片；许可依原来源"
+  },
+  "p_sunhongbin": {
+    "image": "https://www.sunac.com.cn/upload/img/2019-01-11/e81845a2-49a1-40b4-a19c-5baad7768994.jpg",
+    "source": "https://www.sunac.com.cn/mobile/about.aspx?type=6",
+    "file": "avatars/p_sunhongbin.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "原机构公开照片；许可依原来源"
+  },
+  "p_zhengyutong": {
+    "image": "https://upload.wikimedia.org/wikipedia/zh/4/42/Cheng_Yu-tung.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "https://zh.wikipedia.org/wiki/%E9%84%AD%E8%A3%95%E5%BD%A4",
+    "file": "avatars/p_zhengyutong.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "原机构公开照片；许可依原来源"
+  },
+  "p_zhangsongqiao": {
+    "image": "https://fs.mingpao.com/fin/20170711/s00011/e9b92833bfba6e293879fc6d755ecf94.jpg",
+    "source": "https://finance.mingpao.com/fin/instantp/20170711/1499765264518/",
+    "file": "avatars/p_zhangsongqiao.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "许可依原来源；图片用于人物研究索引"
+  },
+  "p_xiaojianhua": {
+    "image": "https://c.files.bbci.co.uk/148DB/production/_126378148_88a787b3-c690-4d4e-8c16-e0c1d17a8bd6.jpg",
+    "source": "https://www.bbc.com/zhongwen/simp/chinese-news-62603731",
+    "file": "avatars/p_xiaojianhua.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "许可依原来源；图片用于人物研究索引"
+  },
+  "p_wenjiahong": {
+    "kind": "姓名占位",
+    "source": "",
+    "accessed_at": "2026-09-23",
+    "note": "搜索无可靠对应照片，不采用同名者或相似人脸。"
+  },
+  "p_jingtian": {
+    "name": "景甜",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Jing_Tian.jpg/330px-Jing_Tian.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://zh.wikipedia.org/wiki/%E6%99%AF%E7%94%9C",
+    "file": "avatars/p_jingtian.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "图片源自维基媒体；作者与许可详见来源页面所链接的图片页。"
+  },
+  "p_wangjianlin": {
+    "name": "王健林",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Wang_Jianlin_-_Annual_Meeting_of_the_New_Champions_Dalian_2009.jpg/330px-Wang_Jianlin_-_Annual_Meeting_of_the_New_Champions_Dalian_2009.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%81%A5%E6%9E%97",
+    "file": "avatars/p_wangjianlin.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "图片源自维基媒体；作者与许可详见来源页面所链接的图片页。"
+  },
+  "p_yuzhengsheng": {
+    "name": "俞正声",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Yu_Zhengsheng-20170901.jpg/330px-Yu_Zhengsheng-20170901.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://zh.wikipedia.org/wiki/%E4%BF%9E%E6%AD%A3%E5%A3%B0",
+    "file": "avatars/p_yuzhengsheng.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "图片源自维基媒体；作者与许可详见来源页面所链接的图片页。"
+  },
+  "p_jingjunhai": {
+    "name": "景俊海",
+    "source": "https://zh.wikipedia.org/wiki/%E6%99%AF%E4%BF%8A%E6%B5%B7",
+    "kind": "姓名占位",
+    "download_error": "429 Client Error: Too Many Requests (015d12c) for url: https://upload.wikimedia.org/wikipedia/commons/f/fb/Jing_Junhai.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "p_wangsicong": {
+    "name": "王思聪",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Wang_Sicong_on_the_press_2015.jpg/330px-Wang_Sicong_on_the_press_2015.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%80%9D%E8%81%AA",
+    "file": "avatars/p_wangsicong.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "图片源自维基媒体；作者与许可详见来源页面所链接的图片页。"
+  },
+  "p_jiaqinglin": {
+    "name": "贾庆林",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Jia_Qinglin.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "https://zh.wikipedia.org/wiki/%E8%B4%BE%E5%BA%86%E6%9E%97",
+    "file": "avatars/p_jiaqinglin.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "图片源自维基媒体；作者与许可详见来源页面所链接的图片页。"
+  },
+  "p_wangzhaoguo": {
+    "name": "王兆国",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Wang_Zhaoguo_Senate_of_Poland.jpg/330px-Wang_Zhaoguo_Senate_of_Poland.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%85%86%E5%9B%BD",
+    "file": "avatars/p_wangzhaoguo.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "图片源自维基媒体；作者与许可详见来源页面所链接的图片页。"
+  },
+  "p_huoshilian": {
+    "name": "霍士廉",
+    "source": "https://en.wikipedia.org/wiki/Huo_Shilian",
+    "kind": "姓名占位",
+    "download_error": "429 Client Error: Too Many Requests (015d12c) for url: https://upload.wikimedia.org/wikipedia/en/2/27/Huo_Shilian.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "p_pengzhen": {
+    "name": "彭真",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Peng_Zhen2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "https://en.wikipedia.org/wiki/Peng_Zhen",
+    "file": "avatars/p_pengzhen.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "图片源自维基媒体；作者与许可详见来源页面所链接的图片页。"
+  },
+  "p_xizhongxun": {
+    "name": "习仲勋",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Xi_Zhongxun%2C_Saifuddin_Azizi%2C_Burhan_Shahidi_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "https://en.wikipedia.org/wiki/Xi_Zhongxun",
+    "file": "avatars/p_xizhongxun.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "图片源自维基媒体；作者与许可详见来源页面所链接的图片页。"
+  },
+  "p_lijianguo": {
+    "name": "李建国",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Li_Jianguo.jpg/330px-Li_Jianguo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Li_Jianguo",
+    "file": "avatars/p_lijianguo.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "图片源自维基媒体；作者与许可详见来源页面所链接的图片页。"
+  },
+  "p_jiangzemin": {
+    "name": "江泽民",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Jiang_Zemin_2002.jpg/330px-Jiang_Zemin_2002.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://zh.wikipedia.org/wiki/%E6%B1%9F%E6%B3%BD%E6%B0%91",
+    "file": "avatars/p_jiangzemin.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "图片源自维基媒体；作者与许可详见来源页面所链接的图片页。"
+  },
+  "p_chenxitong": {
+    "name": "陈希同",
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/29/Chen_Xitong.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "https://en.wikipedia.org/wiki/Chen_Xitong",
+    "file": "avatars/p_chenxitong.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "图片源自维基媒体；作者与许可详见来源页面所链接的图片页。"
+  },
+  "p_boxilai": {
+    "name": "薄熙来",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Bo-_Ferrero-Waldner_meeting_%282007%29.jpg/330px-Bo-_Ferrero-Waldner_meeting_%282007%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Bo_Xilai",
+    "file": "avatars/p_boxilai.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "图片源自维基媒体；作者与许可详见来源页面所链接的图片页。"
+  },
+  "p_dengpufang": {
+    "name": "邓朴方",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Deng_Pufang_05.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "https://en.wikipedia.org/wiki/Deng_Pufang",
+    "file": "avatars/p_dengpufang.png",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "图片源自维基媒体；作者与许可详见来源页面所链接的图片页。"
+  },
+  "p_gaohucheng": {
+    "name": "高虎城",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Gao_Hucheng_2015.jpg/330px-Gao_Hucheng_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Gao_Hucheng",
+    "file": "avatars/p_gaohucheng.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "图片源自维基媒体；作者与许可详见来源页面所链接的图片页。"
+  },
+  "p_caifuchao": {
+    "name": "蔡赴朝",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Cai_Fuchao.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "https://en.wikipedia.org/wiki/Cai_Fuchao",
+    "file": "avatars/p_caifuchao.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "图片源自维基媒体；作者与许可详见来源页面所链接的图片页。"
+  },
+  "p_liyifeng": {
+    "name": "李易峰",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/%E3%80%902017.6.10%E5%BA%B7%E5%B8%88%E5%82%85%E7%BB%BF%E8%8C%B6%E6%B4%BB%E5%8A%A8%E3%80%91_%28%E6%9D%8E%E6%98%93%E5%B3%B0%29_%283%29.jpg/330px-%E3%80%902017.6.10%E5%BA%B7%E5%B8%88%E5%82%85%E7%BB%BF%E8%8C%B6%E6%B4%BB%E5%8A%A8%E3%80%91_%28%E6%9D%8E%E6%98%93%E5%B3%B0%29_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Li_Yifeng",
+    "file": "avatars/p_liyifeng.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "图片源自维基媒体；作者与许可详见来源页面所链接的图片页。"
+  },
+  "p_qinlan": {
+    "name": "秦岚",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Qin_Lan_20180923.png/330px-Qin_Lan_20180923.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Qin_Lan",
+    "file": "avatars/p_qinlan.png",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "图片源自维基媒体；作者与许可详见来源页面所链接的图片页。"
+  },
+  "p_zhangjike": {
+    "name": "张继科",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Mondial_Ping_-_Men%27s_Singles_-_Final_-_Zhang_Jike_vs_Wang_Hao_-_40.jpg/330px-Mondial_Ping_-_Men%27s_Singles_-_Final_-_Zhang_Jike_vs_Wang_Hao_-_40.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Zhang_Jike",
+    "file": "avatars/p_zhangjike.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "图片源自维基媒体；作者与许可详见来源页面所链接的图片页。"
+  },
+  "p_niechenxi": {
+    "name": "聂辰席",
+    "source": "https://en.wikipedia.org/wiki/Nie_Chenxi",
+    "kind": "姓名占位",
+    "download_error": "429 Client Error: Too Many Requests (015d12c) for url: https://upload.wikimedia.org/wikipedia/commons/7/76/Nie_Chenxi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "p_tiening": {
+    "name": "铁凝",
+    "source": "https://en.wikipedia.org/wiki/Tie_Ning",
+    "kind": "姓名占位",
+    "download_error": "429 Client Error: Too Many Requests (015d12c) for url: https://upload.wikimedia.org/wikipedia/en/e/ec/Tie_Ning_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "p_lizhanshu": {
+    "name": "栗战书",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/2022_Li_Zhanshu.jpg/330px-2022_Li_Zhanshu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Li_Zhanshu",
+    "file": "avatars/p_lizhanshu.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "图片源自维基媒体；作者与许可详见来源页面所链接的图片页。"
+  },
+  "p_zhaowei": {
+    "name": "赵薇",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Zhao_Wei.jpg/330px-Zhao_Wei.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Zhao_Wei",
+    "file": "avatars/p_zhaowei.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "图片源自维基媒体；作者与许可详见来源页面所链接的图片页。"
+  },
+  "p_liumingkang": {
+    "name": "刘明康",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Liu_Mingkang_-_Annual_Meeting_of_the_New_Champions_Tianjin_2008.jpg/330px-Liu_Mingkang_-_Annual_Meeting_of_the_New_Champions_Tianjin_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Liu_Mingkang",
+    "file": "avatars/p_liumingkang.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "图片源自维基媒体；作者与许可详见来源页面所链接的图片页。"
+  },
+  "p_sunchunlan": {
+    "name": "孙春兰",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Sun_Chunlan_2021_%28Cropped%29.jpg/330px-Sun_Chunlan_2021_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Sun_Chunlan",
+    "file": "avatars/p_sunchunlan.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "图片源自维基媒体；作者与许可详见来源页面所链接的图片页。"
+  },
+  "p_chenhao_yunnan": {
+    "name": "陈豪",
+    "source": "https://en.wikipedia.org/wiki/Chen_Hao_(politician)",
+    "kind": "姓名占位",
+    "download_error": "429 Client Error: Too Many Requests (015d12c) for url: https://upload.wikimedia.org/wikipedia/commons/5/58/Yunnan_Governor_Chen_Hao_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "p_liuye": {
+    "name": "刘烨",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/%E5%8A%89%E7%87%81.jpg/330px-%E5%8A%89%E7%87%81.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Liu_Ye_(actor)",
+    "file": "avatars/p_liuye.jpg",
+    "kind": "人物照片",
+    "accessed_at": "2026-09-23",
+    "license": "图片源自维基媒体；作者与许可详见来源页面所链接的图片页。"
+  },
+  "p_qixin": {
+    "name": "齐心",
+    "source": "https://politics.people.com.cn/n1/2018/0220/c1001-29826529.html",
+    "kind": "姓名占位",
+    "accessed_at": "2026-09-23",
+    "note": "按用户要求保留亲属档案占位；本次未取得经核对且可使用的单人头像。"
+  }
+}

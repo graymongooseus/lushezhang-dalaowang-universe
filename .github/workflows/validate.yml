@@ -1,0 +1,21 @@
+name: Validate and build
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/bootstrap.py
+      - run: python scripts/validate.py
+      - run: python 鲁社长/关系图谱/build.py --output-dir build --without-photos
+      - uses: actions/upload-artifact@v4
+        with:
+          name: universe-static-site
+          path: build/

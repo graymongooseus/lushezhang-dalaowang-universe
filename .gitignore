@@ -1,0 +1,44 @@
+# Local state, credentials and hosting checkout
+.DS_Store
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.log
+*.sqlite3
+*.sqlite3-*
+*.db
+**/备份/
+/备份/
+/站点/
+/.openai/
+/build/
+/dist/
+# Derived exports and local operational history
+/鲁社长/数据库/导出/
+/鲁社长/数据库/人物档案/
+/鲁社长/数据库/数据库总览.md
+/鲁社长/数据库/派系图谱.md
+/鲁社长/人物索引.csv
+/鲁社长/关系图谱/index.html
+/鲁社长/关系图谱/analyses/
+/鲁社长/关系图谱/站点发布记录.json
+/鲁社长/关系图谱/更新日志.md
+/鲁社长/关系图谱/验收记录*.md
+/鲁社长/关系图谱/设计/
+/鲁社长/文稿分析/*_校验记录.json
+# Third-party photos are not included in the MIT grant
+/鲁社长/关系图谱/avatars/*
+!/鲁社长/关系图谱/avatars/manifest.json
+!/鲁社长/关系图谱/avatars/README.md
+# One-time historical import scripts; current snapshot is the bootstrap source
+/鲁社长/数据库/initialize.py
+/鲁社长/数据库/migrate*.py
+/鲁社长/数据库/import_*.py
+/鲁社长/数据库/schema.sql
+/鲁社长/数据库/schema_v[23456].sql
+/鲁社长/文稿分析/prepare_*.py
+/鲁社长/关系图谱/complete_photos.py
