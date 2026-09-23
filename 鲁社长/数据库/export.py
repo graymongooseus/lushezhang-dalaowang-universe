@@ -2,12 +2,15 @@
 import csv
 import json
 import sqlite3
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
+sys.path.insert(0,str(ROOT.parents[1]/'scripts'))
+from public_data import public_database,COLUMNS
 DB = ROOT / '人物谱系.sqlite3'
 db = sqlite3.connect(DB.as_uri() + '?mode=ro', uri=True)
-db.row_factory = sqlite3.Row
+db = public_database(db)
 OUT = ROOT / '导出'
 CARDS = ROOT / '人物档案'
 OUT.mkdir(exist_ok=True)
@@ -42,7 +45,7 @@ exports = {
  '关系总览':'SELECT * FROM relationship_overview',
  '教育经历':'SELECT p.name AS 人物,e.* FROM education e JOIN people p ON p.id=e.person_id',
  '任职履历':'SELECT p.name AS 人物,a.* FROM appointments a JOIN people p ON p.id=a.person_id',
- '关系证据':'SELECT * FROM relationship_evidence',
+ '关系证据':'SELECT * FROM current_relationship_evidence',
  '派系目录':'SELECT * FROM factions',
  '派系归属':'SELECT * FROM faction_memberships',
  '分类目录':'SELECT * FROM classifications',
@@ -67,9 +70,18 @@ for name,sql in exports.items():
         w.writerow([col[0] for col in cur.description])
         w.writerows(cur.fetchall())
 
-tables = [r['name'] for r in rows("SELECT name FROM sqlite_master WHERE type='table' AND name NOT LIKE 'sqlite_%'")]
+tables = list(COLUMNS)
 data = {t:rows(f'SELECT * FROM {t}') for t in tables}
 (OUT/'数据库快照.json').write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
+manifest={}
+for asset in data['assets']:
+    if asset['visibility']!='public' or not asset['person_id']:continue
+    photo=json.loads(asset['metadata_json'])
+    for target,field in [('file','storage_key'),('source','source_url'),('kind','kind'),('license','license_text'),('license_url','license_url'),('accessed_at','accessed_at')]:
+        if asset[field] is not None:photo[target]=asset[field]
+        else:photo.pop(target,None)
+    manifest[asset['person_id']]=photo
+(ROOT.parent/'关系图谱/avatars/manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n')
 
 overview = rows('SELECT * FROM person_overview')
 by_id = {r['人物ID']:r for r in overview}
@@ -106,7 +118,7 @@ for person in people:
           f"- 亲疏／评价编码：{cell(r['affinity'])}（适用范围：{r['affinity_scope']}）；联系强度：{cell(r['strength'])}{'/5' if r['strength'] else ''}；证据可信度：{r['confidence']}。",
           f"- 状态：{r['status']}。",
           f"- 判断依据：{r['rationale']}",'']
-        evidence=rows('SELECT * FROM relationship_evidence WHERE relationship_id=?',(r['id'],))
+        evidence=rows('SELECT * FROM current_relationship_evidence WHERE relationship_id=?',(r['id'],))
         lines.append(table(['信息提供者','证据方向','内容概括','位置','来源','核实状态'],
             [[e['claimant_label'],e['stance'],e['summary'],e['locator'],cite(e['source_id']),e['status']] for e in evidence]))
     obs=rows('SELECT * FROM observations WHERE person_id=?',(pid,))
@@ -121,7 +133,7 @@ for person in people:
             seconds=seg['start_seconds'];tc=f"{seconds//60:02}:{seconds%60:02}"
             lines += [f"### [{tc}]({seg['url']}&t={seconds}s) · {seg['title']}",'',seg['claim_type']+'；'+seg['verification'],'',seg['summary'],'']
     lines+=['','[返回总览](../数据库总览.md)','']
-    (CARDS/(person['name']+'.md')).write_text('\n'.join(lines))
+    (CARDS/(pid+'.md')).write_text('\n'.join(lines))
 
 core=[p for p in overview if p['核心研究对象']]
 factions=rows("SELECT * FROM factions WHERE faction_type!='状态占位' ORDER BY id")
@@ -144,10 +156,10 @@ for f in factions:
        f"类型：{f['faction_type']}；核心／代表人物：{names.get(f['core_person_id'],'待补充')}；建组状态：{f['status']}。",'',
        f['definition'],'',f['note'] or '', '', '建组依据：'+cite(f['source_id']), '',
        table(['成员','角色','归属状态','可信度','证据与范围'],
-         [[f"[{names[m['person_id']]}](人物档案/{names[m['person_id']]}.md)",m['membership_role'],m['status'],m['confidence'],m['rationale']+' '+cite(m['source_id'])]
+         [[f"[{names[m['person_id']]}](人物档案/{m['person_id']}.md)",m['membership_role'],m['status'],m['confidence'],m['rationale']+' '+cite(m['source_id'])]
           for m in data['faction_memberships'] if m['faction_id']==f['id']]),'']
 faction_lines += ['## 派系待定的人物','',
-    '、'.join(p['name'] for p in people if p['primary_faction_id']=='f_pending')+'。', '',
+    '、'.join(p['name'] for p in people if p['primary_faction_id'] in (None,'f_pending'))+'。', '',
     '这些人物仅有资料状态相同，彼此不代表同派系。后续有明确归属证据时更新。','',
     '[返回数据库总览](数据库总览.md)','']
 (ROOT/'派系图谱.md').write_text('\n'.join(faction_lines))
@@ -166,13 +178,13 @@ relation_graph+=['```']
 
 lines=['# 人物谱系数据库 · 分类与派系版','',
        f"已收录 {len(people)} 个人物或账号实体，{len(core)} 位重点研究人物；{len(data['education'])} 条教育经历、{len(data['appointments'])} 条任职记录、{len(data['relationships'])} 条关系及 {len(data['relationship_evidence'])} 条关系证据。已分析 {sum(s['source_type']=='视频字幕' for s in sources.values())} 个视频。",'',
-       '人物统一采用政治、军事、商业、媒体、学者、演员主持人、其他名人七类之一；圈层支持多重归属，分类不表示圈层。鲁社长是主播与信息来源。', '',
+       '人物职业标签支持多选；官员包含公职人员，演员和主持人分别标注，另含军方、商业、媒体、学者、运动员、律师、歌手和其他名人；分类不表示圈层。鲁社长是主播与信息来源。', '',
        '[打开派系与圈子图谱](派系图谱.md) · [本期视频人物分析](../文稿分析/oG93w6k-1DY_人名与关系.md)','',
        '## 人物分类总表','',table(['人物','主分类','全部分类','主派系／圈子','归属状态'],
-          [[f"[{p['主角名字']}](人物档案/{p['主角名字']}.md)",p['人物类型'],p['全部分类'],p['主派系'],p['主派系归属状态']] for p in overview]),'',
-       '分类字典仅保留七类；政治立场不作为人物主分类，外国国家元首与仅观众账号已经移出活跃库，删除可由备份与审计追溯。','',
+          [[f"[{p['主角名字']}](人物档案/{p['人物ID']}.md)",p['人物类型'],p['全部分类'],p['主派系'],p['主派系归属状态']] for p in overview]),'',
+       '分类字典允许多种职业标签；政治立场不作为人物主标签，外国国家元首与仅观众账号已经移出活跃库，删除可由备份与审计追溯。','',
        '## 核心人物','',table(['人物','最高学历','最高学位','最高已收录岗位','派系'],
-          [[f"[{p['主角名字']}](人物档案/{p['主角名字']}.md)",p['最高学历'],p['最高学位'],highest_role(p),p['所属派系']] for p in core]),'',
+          [[f"[{p['主角名字']}](人物档案/{p['人物ID']}.md)",p['最高学历'],p['最高学位'],highest_role(p),p['所属派系']] for p in core]),'',
        '最高岗位是本次资料中收录的历史代表岗位，并非现职判断。当前资料不能证明的学历、派系与好感度均保留空值。', '',
        '## 人物关系','',table(['人物A','人物B','关系','亲疏／评价编码','评分范围','联系强度','状态'],
           [[r['人物A'],r['人物B'],r['关系类型'],r['亲疏对立值'],r['评分适用范围'],r['联系强度'],r['核实状态']] for r in rows('SELECT * FROM relationship_overview')]),'',

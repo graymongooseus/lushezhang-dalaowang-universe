@@ -42,3 +42,6 @@ venv/
 /鲁社长/数据库/schema_v[23456].sql
 /鲁社长/文稿分析/prepare_*.py
 /鲁社长/关系图谱/complete_photos.py
+
+# Local row-level review reports (regenerate from the private working database)
+/复核报告/

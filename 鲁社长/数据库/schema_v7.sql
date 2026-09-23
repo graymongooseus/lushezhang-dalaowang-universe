@@ -218,8 +218,8 @@ CREATE TABLE video_segments (id TEXT PRIMARY KEY,source_id TEXT NOT NULL REFEREN
 CREATE TABLE segment_people (id TEXT PRIMARY KEY,segment_id TEXT NOT NULL REFERENCES video_segments(id),person_id TEXT NOT NULL REFERENCES people(id),UNIQUE(segment_id,person_id));
 CREATE INDEX segments_source_time ON video_segments(source_id,start_seconds);
 CREATE INDEX segments_person ON segment_people(person_id);
-CREATE TRIGGER category_guard_insert BEFORE INSERT ON people WHEN NEW.category NOT IN ('政治','军事','商业','媒体','学者','演员主持人','其他名人') BEGIN SELECT RAISE(ABORT,'人物分类须采用七类标准'); END;
-CREATE TRIGGER category_guard_update BEFORE UPDATE ON people WHEN NEW.category NOT IN ('政治','军事','商业','媒体','学者','演员主持人','其他名人') BEGIN SELECT RAISE(ABORT,'人物分类须采用七类标准'); END;
+CREATE TRIGGER category_guard_insert BEFORE INSERT ON people WHEN NEW.category NOT IN ('官员','军方','商业','媒体','学者','演员','主持人','运动员','律师','歌手','其他名人') BEGIN SELECT RAISE(ABORT,'人物主标签不在职业标签目录'); END;
+CREATE TRIGGER category_guard_update BEFORE UPDATE ON people WHEN NEW.category NOT IN ('官员','军方','商业','媒体','学者','演员','主持人','运动员','律师','歌手','其他名人') BEGIN SELECT RAISE(ABORT,'人物主标签不在职业标签目录'); END;
 CREATE TABLE kinship_links (relationship_id TEXT PRIMARY KEY REFERENCES relationships(id),kind TEXT NOT NULL CHECK(kind IN ('parent_child','sibling','spouse','extended')), note TEXT NOT NULL DEFAULT '');
 CREATE TABLE family_research (person_id TEXT PRIMARY KEY REFERENCES people(id),max_depth INTEGER NOT NULL DEFAULT 3 CHECK(max_depth BETWEEN 1 AND 3),status TEXT NOT NULL, note TEXT NOT NULL,updated_at TEXT NOT NULL);
 CREATE TABLE site_settings (key TEXT PRIMARY KEY,value TEXT NOT NULL,updated_at TEXT NOT NULL);

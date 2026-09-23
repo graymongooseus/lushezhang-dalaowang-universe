@@ -1,0 +1,1871 @@
+{
+  "video_id": "VceCsZGGcdk",
+  "url": "https://www.youtube.com/watch?v=VceCsZGGcdk",
+  "title": "江泽民上位记：从上海到十六大的权力叙事",
+  "summary": "文稿围绕江泽民从工业系统、上海市政到1989年出任中共中央总书记，继而在九十年代逐步巩固党政军权力的过程展开。前段讲汪道涵、谷牧、张劲夫等人的职业提携与上海任职；中段以1989年人事变动、邓小平南方谈话、十四大和军队人事为主线；后段讨论警卫、组织、宣传、纪检、金融与军队等机构及十五大、十六大。公开任职与会议时间可独立核对；所谓幕后游说、派系忠诚、私人照顾、收买和清洗动机大多是主播的解释或传闻，不作为已证事实。",
+  "published_at": null,
+  "duration_seconds": 2858,
+  "publisher": "政经鲁社长",
+  "transcript_source": "用户提供的逐句时间码文稿",
+  "people": {
+    "丁关根": {
+      "category": "官员",
+      "bio": "前中共中央宣传部部长",
+      "aliases": [
+        "丁关根"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "丁衡高": {
+      "category": "军方",
+      "bio": "聂荣臻女婿、前军方干部",
+      "aliases": [
+        "丁衡高",
+        "丁恒高"
+      ],
+      "proof": "https://jda.cq.gov.cn/web/article/1464346596059602944/web/content_1464346596059602944.html"
+    },
+    "万里": {
+      "category": "官员",
+      "bio": "前全国人大常委会委员长",
+      "aliases": [
+        "万里"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "乔石": {
+      "category": "官员",
+      "bio": "前中央政治局常委、全国人大常委会委员长",
+      "aliases": [
+        "乔石",
+        "乔什"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "俞正声": {
+      "category": "官员",
+      "bio": "前全国政协主席",
+      "aliases": [
+        "俞正声",
+        "于政生"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "傅全有": {
+      "category": "军方",
+      "bio": "前总参谋长",
+      "aliases": [
+        "傅全有",
+        "傅全友"
+      ],
+      "proof": ""
+    },
+    "刘云山": {
+      "category": "官员",
+      "bio": "前中央政治局常委",
+      "aliases": [
+        "刘云山"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "刘京": {
+      "category": "官员",
+      "bio": "前中央政法委副秘书长",
+      "aliases": [
+        "刘京"
+      ],
+      "proof": ""
+    },
+    "刘华清": {
+      "category": "军方",
+      "bio": "前中央军委副主席",
+      "aliases": [
+        "刘华清"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "刘吉": {
+      "category": "学者",
+      "bio": "前中国社会科学院副院长",
+      "aliases": [
+        "刘吉"
+      ],
+      "proof": ""
+    },
+    "刘延东": {
+      "category": "官员",
+      "bio": "前国务院副总理",
+      "aliases": [
+        "刘延东"
+      ],
+      "proof": ""
+    },
+    "刘淇": {
+      "category": "官员",
+      "bio": "前北京市委书记",
+      "aliases": [
+        "刘淇",
+        "刘奇"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "刘逢君": {
+      "category": "军方",
+      "bio": "前北京卫戍区司令员",
+      "aliases": [
+        "刘逢君",
+        "刘逢军"
+      ],
+      "proof": "https://in.china-embassy.gov.cn/sgxw/2005_sgxw/200505/t20050526_2361833.htm"
+    },
+    "叶选宁": {
+      "category": "军方",
+      "bio": "前总政联络部部长",
+      "aliases": [
+        "叶选宁"
+      ],
+      "proof": ""
+    },
+    "吕枫": {
+      "category": "官员",
+      "bio": "前中共中央组织部部长",
+      "aliases": [
+        "吕枫",
+        "吕峰"
+      ],
+      "proof": ""
+    },
+    "吴学谦": {
+      "category": "官员",
+      "bio": "前国务院副总理",
+      "aliases": [
+        "吴学谦"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "吴建常": {
+      "category": "商业",
+      "bio": "邓林丈夫、曾任中国有色金属工业总公司总经理",
+      "aliases": [
+        "吴建常",
+        "吴建长"
+      ],
+      "proof": ""
+    },
+    "吴邦国": {
+      "category": "官员",
+      "bio": "前全国人大常委会委员长",
+      "aliases": [
+        "吴邦国"
+      ],
+      "proof": ""
+    },
+    "周冠五": {
+      "category": "商业",
+      "bio": "前首钢集团负责人",
+      "aliases": [
+        "周冠五",
+        "周冠武"
+      ],
+      "proof": "https://wap.sasac.gov.cn/n2588025/n4423279/n4517386/n11788753/c11806209/content.html"
+    },
+    "周北方": {
+      "category": "商业",
+      "bio": "周冠五之子、前首钢干部",
+      "aliases": [
+        "周北方"
+      ],
+      "proof": ""
+    },
+    "周小川": {
+      "category": "官员",
+      "bio": "前央行行长；节目提及其父",
+      "aliases": [
+        "周小川"
+      ],
+      "proof": ""
+    },
+    "周建南": {
+      "category": "官员",
+      "bio": "前电子工业部门领导；周小川父亲",
+      "aliases": [
+        "周建南"
+      ],
+      "proof": ""
+    },
+    "周恩来": {
+      "category": "官员",
+      "bio": "前国务院总理",
+      "aliases": [
+        "周恩来"
+      ],
+      "proof": ""
+    },
+    "周扬": {
+      "category": "学者",
+      "bio": "文艺理论家",
+      "aliases": [
+        "周扬"
+      ],
+      "proof": ""
+    },
+    "姚依林": {
+      "category": "官员",
+      "bio": "前国务院副总理",
+      "aliases": [
+        "姚依林"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "姬胜德": {
+      "category": "军方",
+      "bio": "前总参谋部干部",
+      "aliases": [
+        "姬胜德"
+      ],
+      "proof": ""
+    },
+    "宋平": {
+      "category": "官员",
+      "bio": "前中央政治局常委",
+      "aliases": [
+        "宋平",
+        "送平"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "尉健行": {
+      "category": "官员",
+      "bio": "前中央纪委书记",
+      "aliases": [
+        "尉健行",
+        "魏建行"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "张万年": {
+      "category": "军方",
+      "bio": "前中央军委副主席",
+      "aliases": [
+        "张万年"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "张全景": {
+      "category": "官员",
+      "bio": "前中共中央组织部部长",
+      "aliases": [
+        "张全景"
+      ],
+      "proof": ""
+    },
+    "张劲夫": {
+      "category": "官员",
+      "bio": "曾任国务委员",
+      "aliases": [
+        "张劲夫",
+        "张进夫"
+      ],
+      "proof": "https://www.nea.gov.cn/2015-08/07/c_134490051.htm"
+    },
+    "张爱萍": {
+      "category": "军方",
+      "bio": "前国防部长",
+      "aliases": [
+        "张爱萍",
+        "张爱平"
+      ],
+      "proof": ""
+    },
+    "张震": {
+      "category": "军方",
+      "bio": "前中央军委副主席",
+      "aliases": [
+        "张震"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "彭真": {
+      "category": "官员",
+      "bio": "前全国人大常委会委员长",
+      "aliases": [
+        "彭真"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "徐向前": {
+      "category": "军方",
+      "bio": "开国元帅",
+      "aliases": [
+        "徐向前"
+      ],
+      "proof": ""
+    },
+    "徐小岩": {
+      "category": "军方",
+      "bio": "徐向前之子、前军方干部",
+      "aliases": [
+        "徐小岩",
+        "徐晓妍"
+      ],
+      "proof": "https://www.cppcc.gov.cn/zxww/2017/12/16/ARTI1513309242250170.shtml"
+    },
+    "成克杰": {
+      "category": "官员",
+      "bio": "前全国人大常委会副委员长",
+      "aliases": [
+        "成克杰",
+        "陈克杰"
+      ],
+      "proof": "https://www.ccdi.gov.cn/special/ggkf40n/wqhg_ggkf40n/201811/t20181118_183603.html"
+    },
+    "曾山": {
+      "category": "官员",
+      "bio": "中共干部、曾庆红父亲",
+      "aliases": [
+        "曾山"
+      ],
+      "proof": ""
+    },
+    "曾庆红": {
+      "category": "官员",
+      "bio": "前国家副主席",
+      "aliases": [
+        "曾庆红"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "朱镕基": {
+      "category": "官员",
+      "bio": "前国务院总理",
+      "aliases": [
+        "朱镕基",
+        "中鸣基"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "李佩瑶": {
+      "category": "官员",
+      "bio": "前全国人大常委会副委员长",
+      "aliases": [
+        "李佩瑶"
+      ],
+      "proof": ""
+    },
+    "李先念": {
+      "category": "官员",
+      "bio": "前国家主席",
+      "aliases": [
+        "李先念"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "李其炎": {
+      "category": "官员",
+      "bio": "前北京市市长",
+      "aliases": [
+        "李其炎",
+        "李奇妍"
+      ],
+      "proof": ""
+    },
+    "李小勇": {
+      "category": "商业",
+      "bio": "李鹏之子；节目提及案件",
+      "aliases": [
+        "李小勇"
+      ],
+      "proof": ""
+    },
+    "李岚清": {
+      "category": "官员",
+      "bio": "前国务院副总理",
+      "aliases": [
+        "李岚清",
+        "李兰青"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "李敏": {
+      "category": "官员",
+      "bio": "前李其炎秘书；仅限文稿所述角色",
+      "aliases": [
+        "李敏"
+      ],
+      "proof": ""
+    },
+    "李新良": {
+      "category": "军方",
+      "bio": "前北京军区司令员",
+      "aliases": [
+        "李新良"
+      ],
+      "proof": ""
+    },
+    "李来柱": {
+      "category": "军方",
+      "bio": "前北京军区司令员",
+      "aliases": [
+        "李来柱",
+        "李莱柱"
+      ],
+      "proof": "https://www.moe.gov.cn/jyb_xwfb/s5147/201402/t20140211_163651.html"
+    },
+    "李源潮": {
+      "category": "官员",
+      "bio": "前国家副主席",
+      "aliases": [
+        "李源潮"
+      ],
+      "proof": ""
+    },
+    "李瑞环": {
+      "category": "官员",
+      "bio": "前中央政治局常委、全国政协主席",
+      "aliases": [
+        "李瑞环"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "李铁映": {
+      "category": "官员",
+      "bio": "前国务委员",
+      "aliases": [
+        "李铁映",
+        "李铁应"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "李锐": {
+      "category": "官员",
+      "bio": "前中央组织部副部长",
+      "aliases": [
+        "李锐"
+      ],
+      "proof": ""
+    },
+    "李锡铭": {
+      "category": "官员",
+      "bio": "前北京市委书记",
+      "aliases": [
+        "李锡铭",
+        "李新明"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "李鹏": {
+      "category": "官员",
+      "bio": "前国务院总理",
+      "aliases": [
+        "李鹏"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "杜星垣": {
+      "category": "官员",
+      "bio": "前国务院秘书长",
+      "aliases": [
+        "杜星垣",
+        "杜星元"
+      ],
+      "proof": ""
+    },
+    "杨尚昆": {
+      "category": "军方",
+      "bio": "前国家主席、中央军委副主席",
+      "aliases": [
+        "杨尚昆"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "杨德中": {
+      "category": "军方",
+      "bio": "前中央警卫局局长",
+      "aliases": [
+        "杨德中",
+        "杨德忠"
+      ],
+      "proof": ""
+    },
+    "杨汝岱": {
+      "category": "官员",
+      "bio": "前四川省委书记",
+      "aliases": [
+        "杨汝岱",
+        "杨汝带"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "杨白冰": {
+      "category": "军方",
+      "bio": "前解放军总政治部主任",
+      "aliases": [
+        "杨白冰"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "栗前明": {
+      "category": "军方",
+      "bio": "邓先群丈夫、前第二炮兵副司令员",
+      "aliases": [
+        "栗前明",
+        "力千铭"
+      ],
+      "proof": "https://xcxfy.hncourt.gov.cn/public/detail.php?id=1079"
+    },
+    "江上青": {
+      "category": "官员",
+      "bio": "江泽民养父、抗日烈士",
+      "aliases": [
+        "江上青",
+        "江上卿"
+      ],
+      "proof": "https://fzg.changzhou.gov.cn/html/fzg/2010/OHLDODAJ_0716/25252.html"
+    },
+    "江泽民": {
+      "category": "官员",
+      "bio": "曾任上海市长、市委书记和中共中央总书记",
+      "aliases": [
+        "江泽民",
+        "老江",
+        "江总书记",
+        "老将",
+        "江爷爷"
+      ],
+      "proof": "https://www.saac.gov.cn/daj/yaow/202212/85e122d44e0a4a51b8a14f79ebc8c053.shtml"
+    },
+    "汪精卫": {
+      "category": "官员",
+      "bio": "近代政治人物；仅在汪精卫政府称谓中出现",
+      "aliases": [
+        "汪精卫"
+      ],
+      "proof": ""
+    },
+    "汪道涵": {
+      "category": "官员",
+      "bio": "曾任上海市市长",
+      "aliases": [
+        "汪道涵"
+      ],
+      "proof": "https://www.saac.gov.cn/daj/yaow/202212/85e122d44e0a4a51b8a14f79ebc8c053.shtml"
+    },
+    "滕文生": {
+      "category": "官员",
+      "bio": "前中央政策研究室负责人",
+      "aliases": [
+        "滕文生"
+      ],
+      "proof": ""
+    },
+    "熊光楷": {
+      "category": "军方",
+      "bio": "前总参谋部副总参谋长",
+      "aliases": [
+        "熊光楷",
+        "熊光凯"
+      ],
+      "proof": ""
+    },
+    "王之": {
+      "category": "商业",
+      "bio": "前长城计算机公司负责人",
+      "aliases": [
+        "王之",
+        "王芝"
+      ],
+      "proof": "https://www.greatwall.com.cn/2977.html"
+    },
+    "王兆国": {
+      "category": "官员",
+      "bio": "前全国人大常委会副委员长",
+      "aliases": [
+        "王兆国"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "王冶坪": {
+      "category": "其他名人",
+      "bio": "江泽民夫人",
+      "aliases": [
+        "王冶坪",
+        "王也平"
+      ],
+      "proof": "https://www.moj.gov.cn/pub/sfbgwapp/jryw/202212/t20221205_468659.html"
+    },
+    "王宝森": {
+      "category": "官员",
+      "bio": "前北京市副市长",
+      "aliases": [
+        "王宝森"
+      ],
+      "proof": ""
+    },
+    "王沪宁": {
+      "category": "官员",
+      "bio": "中共中央政治局常委；文稿涉及其早期任职",
+      "aliases": [
+        "王沪宁"
+      ],
+      "proof": ""
+    },
+    "王瑞林": {
+      "category": "军方",
+      "bio": "前中央军委委员",
+      "aliases": [
+        "王瑞林"
+      ],
+      "proof": ""
+    },
+    "王震": {
+      "category": "官员",
+      "bio": "前国家副主席",
+      "aliases": [
+        "王震"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "田纪云": {
+      "category": "官员",
+      "bio": "前国务院副总理",
+      "aliases": [
+        "田纪云",
+        "田济云"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "秦基伟": {
+      "category": "军方",
+      "bio": "前国防部长",
+      "aliases": [
+        "秦基伟",
+        "秦机委"
+      ],
+      "proof": ""
+    },
+    "粟裕": {
+      "category": "军方",
+      "bio": "开国大将",
+      "aliases": [
+        "粟裕",
+        "苏玉",
+        "素玉"
+      ],
+      "proof": "https://dsyjs.yinchuan.gov.cn/rwyj/201408/t20140804_59765.htm"
+    },
+    "罗伯特·劳伦斯·库恩": {
+      "category": "学者",
+      "bio": "《他改变了中国》作者",
+      "aliases": [
+        "罗伯特·劳伦斯·库恩",
+        "库恩"
+      ],
+      "proof": ""
+    },
+    "罗干": {
+      "category": "官员",
+      "bio": "前中央政法委书记",
+      "aliases": [
+        "罗干"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "聂力": {
+      "category": "军方",
+      "bio": "聂荣臻之女、军方干部",
+      "aliases": [
+        "聂力",
+        "聂立"
+      ],
+      "proof": "https://jda.cq.gov.cn/web/article/1464346596059602944/web/content_1464346596059602944.html"
+    },
+    "聂荣臻": {
+      "category": "军方",
+      "bio": "开国元帅",
+      "aliases": [
+        "聂荣臻",
+        "聂荣真"
+      ],
+      "proof": ""
+    },
+    "胡乔木": {
+      "category": "官员",
+      "bio": "前中央书记处书记",
+      "aliases": [
+        "胡乔木"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "胡立教": {
+      "category": "官员",
+      "bio": "前上海市委副书记",
+      "aliases": [
+        "胡立教"
+      ],
+      "proof": ""
+    },
+    "胡耀邦": {
+      "category": "官员",
+      "bio": "前中共中央总书记",
+      "aliases": [
+        "胡耀邦"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "胡锦涛": {
+      "category": "官员",
+      "bio": "前中共中央总书记",
+      "aliases": [
+        "胡锦涛"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "胡长清": {
+      "category": "官员",
+      "bio": "前江西省副省长",
+      "aliases": [
+        "胡长清",
+        "胡长青"
+      ],
+      "proof": "https://www.ccdi.gov.cn/special/ggkf40n/wqhg_ggkf40n/201811/t20181118_183603.html"
+    },
+    "芮杏文": {
+      "category": "官员",
+      "bio": "前上海市委书记",
+      "aliases": [
+        "芮杏文",
+        "瑞幸文"
+      ],
+      "proof": "https://www.shanghai.gov.cn/shanghai/newshanghai/%E4%B8%8A%E6%B5%B7%E9%80%9A%E5%BF%97.pdf"
+    },
+    "薄一波": {
+      "category": "官员",
+      "bio": "前国务委员",
+      "aliases": [
+        "薄一波",
+        "博一波",
+        "搏一搏",
+        "博弈波"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "薄熙来": {
+      "category": "官员",
+      "bio": "前重庆市委书记",
+      "aliases": [
+        "薄熙来"
+      ],
+      "proof": ""
+    },
+    "薛明": {
+      "category": "其他名人",
+      "bio": "贺龙夫人",
+      "aliases": [
+        "薛明",
+        "宣明"
+      ],
+      "proof": ""
+    },
+    "许永跃": {
+      "category": "官员",
+      "bio": "前国家安全部部长",
+      "aliases": [
+        "许永跃",
+        "徐永岳"
+      ],
+      "proof": ""
+    },
+    "谷牧": {
+      "category": "官员",
+      "bio": "曾任国务院副总理",
+      "aliases": [
+        "谷牧",
+        "古墓",
+        "古木"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "贺平": {
+      "category": "军方",
+      "bio": "邓榕丈夫、曾任保利集团负责人",
+      "aliases": [
+        "贺平"
+      ],
+      "proof": ""
+    },
+    "贺龙": {
+      "category": "军方",
+      "bio": "开国元帅",
+      "aliases": [
+        "贺龙"
+      ],
+      "proof": ""
+    },
+    "贾庆林": {
+      "category": "官员",
+      "bio": "前中央政治局常委",
+      "aliases": [
+        "贾庆林"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "贾廷安": {
+      "category": "军方",
+      "bio": "江泽民秘书、前军方干部",
+      "aliases": [
+        "贾廷安",
+        "贾庭安"
+      ],
+      "proof": ""
+    },
+    "赵启正": {
+      "category": "官员",
+      "bio": "前国务院新闻办公室主任",
+      "aliases": [
+        "赵启正"
+      ],
+      "proof": ""
+    },
+    "赵紫阳": {
+      "category": "官员",
+      "bio": "前中共中央总书记",
+      "aliases": [
+        "赵紫阳"
+      ],
+      "proof": ""
+    },
+    "载湉": {
+      "category": "官员",
+      "bio": "清德宗光绪帝；节目只用于比喻",
+      "aliases": [
+        "载湉",
+        "光绪皇帝"
+      ],
+      "proof": ""
+    },
+    "迟浩田": {
+      "category": "军方",
+      "bio": "前中央军委副主席",
+      "aliases": [
+        "迟浩田",
+        "池浩田"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "邓先群": {
+      "category": "军方",
+      "bio": "邓小平之妹、前总政干部",
+      "aliases": [
+        "邓先群"
+      ],
+      "proof": "https://www.sctyzx.gov.cn/ga/201408/54248571.html"
+    },
+    "邓六金": {
+      "category": "其他名人",
+      "bio": "曾山夫人、曾庆红母亲",
+      "aliases": [
+        "邓六金"
+      ],
+      "proof": ""
+    },
+    "邓力群": {
+      "category": "官员",
+      "bio": "前中央宣传部门负责人",
+      "aliases": [
+        "邓力群",
+        "邓丽群",
+        "邓立群"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "邓小平": {
+      "category": "官员",
+      "bio": "中共领导人",
+      "aliases": [
+        "邓小平",
+        "邓小明"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "邓斌": {
+      "category": "商业",
+      "bio": "无锡非法集资案主要人物；与邓小平的曾用名同名",
+      "aliases": [
+        "邓斌"
+      ],
+      "proof": ""
+    },
+    "邓朴方": {
+      "category": "官员",
+      "bio": "邓小平之子、前中国残联负责人",
+      "aliases": [
+        "邓朴方",
+        "邓普方"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "邓楠": {
+      "category": "官员",
+      "bio": "邓小平之女、前科技部门负责人",
+      "aliases": [
+        "邓楠",
+        "邓南"
+      ],
+      "proof": "https://www.gov.cn/gongbao/shuju/1997/gwyb199705.pdf"
+    },
+    "邓榕": {
+      "category": "其他名人",
+      "bio": "邓小平之女、作家",
+      "aliases": [
+        "邓榕",
+        "邓荣"
+      ],
+      "proof": "https://www.gov.cn/gongbao/shuju/1997/gwyb199705.pdf"
+    },
+    "邓质方": {
+      "category": "商业",
+      "bio": "邓小平之子",
+      "aliases": [
+        "邓质方",
+        "邓志芳"
+      ],
+      "proof": "https://www.gov.cn/gongbao/shuju/1997/gwyb199705.pdf"
+    },
+    "钦本立": {
+      "category": "媒体",
+      "bio": "《世界经济导报》原总编辑",
+      "aliases": [
+        "钦本立",
+        "清立本"
+      ],
+      "proof": ""
+    },
+    "阎淮": {
+      "category": "官员",
+      "bio": "前中组部干部、回忆录作者",
+      "aliases": [
+        "阎淮",
+        "严淮",
+        "严怀"
+      ],
+      "proof": ""
+    },
+    "陈云": {
+      "category": "官员",
+      "bio": "中共元老",
+      "aliases": [
+        "陈云",
+        "陈运"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "陈元": {
+      "category": "官员",
+      "bio": "陈云之子、金融系统官员",
+      "aliases": [
+        "陈元"
+      ],
+      "proof": "https://news.12371.cn/2013/06/10/ARTI1370826618830648.shtml"
+    },
+    "陈国栋": {
+      "category": "官员",
+      "bio": "前上海市委第一书记",
+      "aliases": [
+        "陈国栋"
+      ],
+      "proof": "https://www.shanghai.gov.cn/shanghai/newshanghai/%E4%B8%8A%E6%B5%B7%E9%80%9A%E5%BF%97.pdf"
+    },
+    "陈希同": {
+      "category": "官员",
+      "bio": "前北京市委书记",
+      "aliases": [
+        "陈希同"
+      ],
+      "proof": "https://www.ccdi.gov.cn/special/ggkf40n/wqhg_ggkf40n/201811/t20181118_183603.html"
+    },
+    "陈毅": {
+      "category": "军方",
+      "bio": "开国元帅",
+      "aliases": [
+        "陈毅"
+      ],
+      "proof": ""
+    },
+    "韩杼滨": {
+      "category": "官员",
+      "bio": "前中共中央纪委副书记",
+      "aliases": [
+        "韩杼滨",
+        "韩祝斌"
+      ],
+      "proof": "https://www.gov.cn/jrzg/2006-01/27/content_174010.htm"
+    },
+    "高严": {
+      "category": "官员",
+      "bio": "前国家电力公司负责人",
+      "aliases": [
+        "高严",
+        "高岩"
+      ],
+      "proof": ""
+    }
+  },
+  "segments": [
+    {
+      "start_seconds": 0,
+      "end_seconds": 60,
+      "title": "开场与节目定位",
+      "summary": "开头播放江泽民接受记者提问的片段，主播以百年诞辰纪录片为引子，宣布讨论公开履历以外的政治博弈。",
+      "claim_type": "节目定位",
+      "verification": "评价",
+      "people": [
+        "江泽民"
+      ]
+    },
+    {
+      "start_seconds": 60,
+      "end_seconds": 120,
+      "title": "问题意识与频道说明",
+      "summary": "主播将江泽民从上海干部到最高领导人的过程定义为本期主题，并插入会员宣传。",
+      "claim_type": "节目定位",
+      "verification": "评价",
+      "people": [
+        "江泽民"
+      ]
+    },
+    {
+      "start_seconds": 120,
+      "end_seconds": 180,
+      "title": "家世与汪道涵",
+      "summary": "文稿称江泽民被过继给江上青，讲述求学、食品厂任职及与汪道涵相识；父亲任职与主观评价需另核。",
+      "claim_type": "家庭与早期职业",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "汪精卫",
+        "江上青",
+        "汪道涵"
+      ]
+    },
+    {
+      "start_seconds": 180,
+      "end_seconds": 240,
+      "title": "工业系统与谷牧",
+      "summary": "节目称汪道涵推荐江泽民给谷牧，后者安排其参与外贸与特区工作；正式任职可核，个人推荐动机待核。",
+      "claim_type": "履历与提携主张",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "汪道涵",
+        "邓小平",
+        "谷牧"
+      ]
+    },
+    {
+      "start_seconds": 240,
+      "end_seconds": 300,
+      "title": "张劲夫、十二大与上海市长",
+      "summary": "文稿叙述江泽民转电子工业部、入选十二届中央委员、升任部长，1985年接任上海市长；非公开人事游说须另证。",
+      "claim_type": "任职与提携主张",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "汪道涵",
+        "张劲夫",
+        "胡耀邦",
+        "周小川",
+        "周建南",
+        "李锐"
+      ]
+    },
+    {
+      "start_seconds": 300,
+      "end_seconds": 360,
+      "title": "上海市长的人事游说",
+      "summary": "主播称江泽民通过阎淮、杜星垣、李锐、谷牧分别争取陈云、赵紫阳、胡耀邦、邓小平支持，随后提及芮杏文赴沪。",
+      "claim_type": "幕后游说主张",
+      "verification": "待核",
+      "people": [
+        "江泽民",
+        "邓小平",
+        "谷牧",
+        "胡耀邦",
+        "李锐",
+        "陈云",
+        "陈元",
+        "阎淮",
+        "杜星垣",
+        "赵紫阳",
+        "芮杏文"
+      ]
+    },
+    {
+      "start_seconds": 360,
+      "end_seconds": 420,
+      "title": "芮杏文与上海市委",
+      "summary": "节目将上海地方反弹与芮杏文调离相联系，并叙述江泽民接任市委书记、进入政治局；任职可核，排挤因果是主播解释。",
+      "claim_type": "任职与派系解释",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "汪道涵",
+        "陈云",
+        "赵紫阳",
+        "芮杏文",
+        "陈国栋",
+        "胡立教",
+        "李鹏"
+      ]
+    },
+    {
+      "start_seconds": 420,
+      "end_seconds": 480,
+      "title": "红色家世与华东系统",
+      "summary": "主播将江上青养父身份及华东干部网络概括为江泽民政治资源，并列举陈毅、粟裕、张爱萍、曾山等人；整体推举论为解释。",
+      "claim_type": "家世与圈层主张",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "江上青",
+        "汪道涵",
+        "张劲夫",
+        "陈国栋",
+        "陈毅",
+        "粟裕",
+        "张爱萍",
+        "曾山",
+        "李先念",
+        "曾庆红",
+        "李源潮",
+        "刘延东"
+      ]
+    },
+    {
+      "start_seconds": 480,
+      "end_seconds": 540,
+      "title": "照顾旧人与上层路线",
+      "summary": "节目讲江泽民对阎淮一家、汪道涵夫妇及来沪干部的照顾，并提送电器轶事；没有原始记录，不形成已证利益关系。",
+      "claim_type": "私人轶事",
+      "verification": "待核",
+      "people": [
+        "江泽民",
+        "汪道涵",
+        "阎淮"
+      ]
+    },
+    {
+      "start_seconds": 540,
+      "end_seconds": 600,
+      "title": "李先念私生活传闻与急救药轶事",
+      "summary": "主播转述有关李先念家庭的传闻，并借胡耀邦发病时江泽民带药作心理推论；均不可据此建立事实。",
+      "claim_type": "私人传闻与心理推测",
+      "verification": "待核",
+      "people": [
+        "江泽民",
+        "邓小平",
+        "胡耀邦",
+        "陈云",
+        "李先念"
+      ]
+    },
+    {
+      "start_seconds": 600,
+      "end_seconds": 660,
+      "title": "经济改革与反异化",
+      "summary": "节目概括江泽民经济较开放、政治较保守，并引阎淮回忆讨论邓力群、周扬、胡乔木的反异化争论。",
+      "claim_type": "政策评价与回忆",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "谷牧",
+        "胡耀邦",
+        "阎淮",
+        "赵紫阳",
+        "陈国栋",
+        "李先念",
+        "邓力群",
+        "周扬",
+        "胡乔木"
+      ]
+    },
+    {
+      "start_seconds": 660,
+      "end_seconds": 720,
+      "title": "1989年前的政治位置",
+      "summary": "主播比较江泽民与陈云、姚依林、胡耀邦、赵紫阳的政策立场，称其本准备退休；政治光谱与退休意图是节目判断。",
+      "claim_type": "政策评价",
+      "verification": "待核",
+      "people": [
+        "江泽民",
+        "汪道涵",
+        "胡耀邦",
+        "陈云",
+        "赵紫阳",
+        "姚依林"
+      ]
+    },
+    {
+      "start_seconds": 720,
+      "end_seconds": 780,
+      "title": "《世界经济导报》与万里",
+      "summary": "节目讲江泽民撤换钦本立、要求万里在上海表态，作为1989年获元老认可的原因；具体幕后因果须另证。",
+      "claim_type": "1989年人事叙事",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "邓小平",
+        "陈云",
+        "赵紫阳",
+        "李先念",
+        "钦本立",
+        "万里"
+      ]
+    },
+    {
+      "start_seconds": 780,
+      "end_seconds": 840,
+      "title": "总书记候选条件",
+      "summary": "主播重构赵紫阳离任后邓小平、陈云、李先念等人对继任者的筛选标准；这是对闭门人事讨论的解释。",
+      "claim_type": "幕后决策推测",
+      "verification": "待核",
+      "people": [
+        "江泽民",
+        "邓小平",
+        "陈云",
+        "赵紫阳",
+        "李鹏",
+        "李先念"
+      ]
+    },
+    {
+      "start_seconds": 840,
+      "end_seconds": 900,
+      "title": "候选人比较",
+      "summary": "节目逐一评价李鹏、姚依林、乔石、万里、杨尚昆及其他政治局委员，认为只剩李瑞环与江泽民；评价和候选名单未见原始会议记录。",
+      "claim_type": "人事比较与推测",
+      "verification": "待核",
+      "people": [
+        "江泽民",
+        "邓小平",
+        "陈云",
+        "赵紫阳",
+        "李鹏",
+        "李先念",
+        "姚依林",
+        "万里",
+        "乔石",
+        "田纪云",
+        "杨尚昆",
+        "杨汝岱",
+        "李锡铭",
+        "李铁映",
+        "吴学谦",
+        "秦基伟",
+        "宋平",
+        "李瑞环"
+      ]
+    },
+    {
+      "start_seconds": 900,
+      "end_seconds": 960,
+      "title": "1989年元老会说法",
+      "summary": "主播称陈云、李先念先推江泽民，邓小平于5月19日同意；这属于节目对非公开会议的主张，不能当作正式任命日。",
+      "claim_type": "闭门会议主张",
+      "verification": "待核",
+      "people": [
+        "江泽民",
+        "邓小平",
+        "谷牧",
+        "胡耀邦",
+        "陈云",
+        "赵紫阳",
+        "李先念",
+        "李瑞环"
+      ]
+    },
+    {
+      "start_seconds": 960,
+      "end_seconds": 1020,
+      "title": "十三届四中全会与杨尚昆",
+      "summary": "江泽民在六月的十三届四中全会上当选总书记可核；节目进一步以派系划分常委和杨尚昆的地位，属分析。",
+      "claim_type": "会议事实与派系分析",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "邓小平",
+        "胡耀邦",
+        "赵紫阳",
+        "李鹏",
+        "姚依林",
+        "杨尚昆",
+        "宋平",
+        "李瑞环"
+      ]
+    },
+    {
+      "start_seconds": 1020,
+      "end_seconds": 1080,
+      "title": "初任总书记的不安",
+      "summary": "节目引用库恩著作谈王冶坪的反应，并推测江泽民担忧邓小平、陈云、杨尚昆和李鹏；私人情绪未独立核实。",
+      "claim_type": "传记转述与心理推测",
+      "verification": "待核",
+      "people": [
+        "江泽民",
+        "邓小平",
+        "胡耀邦",
+        "陈云",
+        "赵紫阳",
+        "李鹏",
+        "王冶坪",
+        "姚依林",
+        "乔石",
+        "杨尚昆",
+        "宋平",
+        "罗伯特·劳伦斯·库恩"
+      ]
+    },
+    {
+      "start_seconds": 1080,
+      "end_seconds": 1140,
+      "title": "中办、警卫局与军委",
+      "summary": "主播说温家宝、杨德中及军队系统限制了江泽民的实权，并以光绪帝作比喻；具体控制程度属于推论。",
+      "claim_type": "机构与权力分析",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "邓小平",
+        "杨尚昆",
+        "李瑞环",
+        "杨德中",
+        "周恩来",
+        "载湉"
+      ]
+    },
+    {
+      "start_seconds": 1140,
+      "end_seconds": 1200,
+      "title": "与李鹏、乔石、宋平相处",
+      "summary": "节目提出江泽民维持治理整顿、支持三峡工程及尊重乔石和宋平分工的策略；正式机构设置可核，盟友与动机待核。",
+      "claim_type": "政治策略主张",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "李鹏",
+        "曾庆红",
+        "乔石",
+        "宋平",
+        "贾廷安"
+      ]
+    },
+    {
+      "start_seconds": 1200,
+      "end_seconds": 1260,
+      "title": "外交与元老策略",
+      "summary": "节目称江泽民以外交建交成果巩固权威，并开始接触元老子女；外交事件可核，个人功劳归因和接触动机待核。",
+      "claim_type": "外交与关系解释",
+      "verification": "部分可核",
+      "people": [
+        "江泽民"
+      ]
+    },
+    {
+      "start_seconds": 1260,
+      "end_seconds": 1320,
+      "title": "陈元、聂荣臻与王震",
+      "summary": "主播讲江泽民支持陈元金融电子化、向聂荣臻祝寿、关照聂力和丁衡高，并接触王震；公开活动与私人交换须分别核。",
+      "claim_type": "公开接触与利益主张",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "邓小平",
+        "陈元",
+        "张爱萍",
+        "李先念",
+        "聂荣臻",
+        "聂力",
+        "丁衡高",
+        "王震",
+        "王之"
+      ]
+    },
+    {
+      "start_seconds": 1320,
+      "end_seconds": 1380,
+      "title": "薄一波、邓力群与滕文生",
+      "summary": "节目称江泽民争取薄一波并支持薄熙来任职，安排滕文生以安抚邓力群；任职可核，利益交易无法由此推出。",
+      "claim_type": "幕后人事主张",
+      "verification": "待核",
+      "people": [
+        "江泽民",
+        "邓小平",
+        "陈云",
+        "邓力群",
+        "胡乔木",
+        "王之",
+        "薄一波",
+        "薄熙来",
+        "滕文生"
+      ]
+    },
+    {
+      "start_seconds": 1380,
+      "end_seconds": 1440,
+      "title": "曾庆红与三角权力模型",
+      "summary": "节目介绍曾庆红的父母及其与邓朴方等人的所谓联络作用，并用三角模型解释邓小平、陈云及改革派。",
+      "claim_type": "家世与政治模型",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "邓小平",
+        "胡耀邦",
+        "陈云",
+        "赵紫阳",
+        "曾山",
+        "李先念",
+        "曾庆红",
+        "邓六金",
+        "邓朴方"
+      ]
+    },
+    {
+      "start_seconds": 1440,
+      "end_seconds": 1500,
+      "title": "南方谈话前的分歧",
+      "summary": "主播称邓小平对江泽民、李鹏的经济路线不满，以南方谈话施压；实际谈话可核，对内心目的的断定待核。",
+      "claim_type": "南方谈话解释",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "邓小平",
+        "陈云",
+        "李鹏",
+        "李先念"
+      ]
+    },
+    {
+      "start_seconds": 1500,
+      "end_seconds": 1560,
+      "title": "南方谈话后的政策转向",
+      "summary": "节目称江泽民转向学习邓小平讲话、提出社会主义市场经济目标；公开政策可核，所谓撤换打算和私人反应须另证。",
+      "claim_type": "政策变化与动机推测",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "邓小平",
+        "薄一波"
+      ]
+    },
+    {
+      "start_seconds": 1560,
+      "end_seconds": 1620,
+      "title": "杨尚昆与杨白冰",
+      "summary": "主播说杨氏兄弟控制军队并引起其他系统不满，以此铺垫十四大军队调整；任职可核，内部情绪和串联待核。",
+      "claim_type": "军队派系主张",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "邓小平",
+        "杨尚昆",
+        "杨白冰"
+      ]
+    },
+    {
+      "start_seconds": 1620,
+      "end_seconds": 1680,
+      "title": "十四大人事与游说传闻",
+      "summary": "节目称江泽民等人经俞正声、刘京游说邓朴方，促使邓小平撤下杨氏兄弟；十四大职位调整可核，幕后游说未核。",
+      "claim_type": "军队人事与幕后主张",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "邓小平",
+        "陈云",
+        "曾庆红",
+        "乔石",
+        "李瑞环",
+        "薄一波",
+        "邓朴方",
+        "俞正声",
+        "刘京",
+        "朱镕基",
+        "刘华清",
+        "张震",
+        "王瑞林",
+        "胡锦涛"
+      ]
+    },
+    {
+      "start_seconds": 1680,
+      "end_seconds": 1740,
+      "title": "十四大常委与中顾委",
+      "summary": "节目列举十四大常委、军委和中顾委变动，推测邓小平对江泽民信任程度；人员变动可核，信任心理待核。",
+      "claim_type": "会议事实与心理推测",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "邓小平",
+        "陈云",
+        "李鹏",
+        "李先念",
+        "胡乔木",
+        "姚依林",
+        "乔石",
+        "宋平",
+        "王震",
+        "朱镕基",
+        "尉健行"
+      ]
+    },
+    {
+      "start_seconds": 1740,
+      "end_seconds": 1800,
+      "title": "温家宝、曾庆红及改革",
+      "summary": "主播称曾庆红接任中办主任、朱镕基推动改革，并解释江泽民如何照顾邓家；任职和改革措施可核，投靠与交换主张待核。",
+      "claim_type": "人事与改革",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "邓小平",
+        "张爱萍",
+        "曾庆红",
+        "朱镕基",
+        "张震",
+        "李岚清"
+      ]
+    },
+    {
+      "start_seconds": 1800,
+      "end_seconds": 1860,
+      "title": "邓家成员任职",
+      "summary": "节目列举邓朴方、邓楠、邓榕、贺平、吴建常、邓先群、栗前明的职位，归因于江泽民关照；亲属和任职可另核，归因不成立。",
+      "claim_type": "亲属与任职归因",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "邓小平",
+        "邓朴方",
+        "邓楠",
+        "邓榕",
+        "贺平",
+        "吴建常",
+        "邓先群",
+        "栗前明"
+      ]
+    },
+    {
+      "start_seconds": 1860,
+      "end_seconds": 1920,
+      "title": "1994年十四届四中全会",
+      "summary": "节目以邓小平健康和纪念活动解释权力转移，将四中全会决定称为江泽民独立施政节点；文件可核，私人决策过程待核。",
+      "claim_type": "公开会议与权力解释",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "邓小平"
+      ]
+    },
+    {
+      "start_seconds": 1920,
+      "end_seconds": 1980,
+      "title": "中央警卫系统",
+      "summary": "节目称江泽民以晋升和待遇换取杨德中配合；杨德中身份可核，所谓交易与恐惧属于主播主张。",
+      "claim_type": "警卫系统主张",
+      "verification": "待核",
+      "people": [
+        "江泽民",
+        "邓小平",
+        "杨德中"
+      ]
+    },
+    {
+      "start_seconds": 1980,
+      "end_seconds": 2040,
+      "title": "建国门事件及军队人事",
+      "summary": "节目把建国门事件与刘逢君、李来柱、张万年、迟浩田、傅全有人事关联；事件和部分任职可核，清洗动机待核。",
+      "claim_type": "军队事件与人事",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "邓小平",
+        "王瑞林",
+        "刘逢君",
+        "李来柱",
+        "张万年",
+        "迟浩田",
+        "傅全有"
+      ]
+    },
+    {
+      "start_seconds": 2040,
+      "end_seconds": 2100,
+      "title": "粟裕评价与将领关系",
+      "summary": "主播称江泽民支持纠正粟裕受错误批判的历史，并关照贺龙、徐向前家人；1994年军委文章可核，个人好感和授衔因果待核。",
+      "claim_type": "军事史与私人关系",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "邓小平",
+        "粟裕",
+        "王瑞林",
+        "贺龙",
+        "薛明",
+        "徐向前",
+        "徐小岩"
+      ]
+    },
+    {
+      "start_seconds": 2100,
+      "end_seconds": 2160,
+      "title": "吴邦国与中组部",
+      "summary": "节目叙述吴邦国进京、吕枫离任、张全景接任，并推测江泽民和宋平在人事权上妥协；任职可核，谈判待核。",
+      "claim_type": "组织人事解释",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "陈云",
+        "曾庆红",
+        "宋平",
+        "吴邦国",
+        "丁关根",
+        "胡锦涛",
+        "吕枫",
+        "张全景"
+      ]
+    },
+    {
+      "start_seconds": 2160,
+      "end_seconds": 2220,
+      "title": "组织权与乔石",
+      "summary": "主播称书记处、中办和中组部权力被重新分配，江泽民将乔石视为对手；机构和职务可核，控制意图待核。",
+      "claim_type": "机构权力分析",
+      "verification": "待核",
+      "people": [
+        "江泽民",
+        "邓小平",
+        "李鹏",
+        "乔石",
+        "杨尚昆",
+        "宋平",
+        "胡锦涛",
+        "张全景"
+      ]
+    },
+    {
+      "start_seconds": 2220,
+      "end_seconds": 2280,
+      "title": "纪检、宣传与智囊",
+      "summary": "节目讲罗干、丁关根、赵启正、刘吉、王沪宁的任职或调动，解释为江泽民建立个人团队；职位可核，个人忠诚不自动成立。",
+      "claim_type": "机构与任职解释",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "邓小平",
+        "乔石",
+        "丁关根",
+        "罗干",
+        "赵启正",
+        "刘吉",
+        "王沪宁"
+      ]
+    },
+    {
+      "start_seconds": 2280,
+      "end_seconds": 2340,
+      "title": "邓斌案与王宝森案",
+      "summary": "文稿从无锡非法集资案讲到李敏、周北方、邓质方与王宝森，并推断江泽民有意保护邓家；案件事实和幕后指令须分开。",
+      "claim_type": "案件与动机主张",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "邓小平",
+        "邓斌",
+        "李其炎",
+        "李敏",
+        "周冠五",
+        "周北方",
+        "邓质方",
+        "王宝森",
+        "陈希同"
+      ]
+    },
+    {
+      "start_seconds": 2340,
+      "end_seconds": 2400,
+      "title": "陈希同案与北京布局",
+      "summary": "主播称江泽民借陈希同案清理北京并提拔贾庆林；司法事实可核，证据充分性与所谓政治目的不能仅凭节目定论。",
+      "claim_type": "案件与政治因果",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "邓小平",
+        "陈云",
+        "李鹏",
+        "陈希同",
+        "贾庆林",
+        "彭真"
+      ]
+    },
+    {
+      "start_seconds": 2400,
+      "end_seconds": 2460,
+      "title": "1997年十五大",
+      "summary": "节目把邓小平、陈云、彭真的去世及乔石离任与江泽民巩固权力相联系，并转入李鹏、朱镕基关系。",
+      "claim_type": "会议与权力解释",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "邓小平",
+        "李鹏",
+        "乔石",
+        "薄一波",
+        "朱镕基",
+        "刘华清",
+        "王瑞林",
+        "张万年"
+      ]
+    },
+    {
+      "start_seconds": 2460,
+      "end_seconds": 2520,
+      "title": "与李鹏关系及电力系统",
+      "summary": "主播讲国务院重组、罗干、刘淇任职及高严、李小勇案件，将其解释为江泽民削弱李鹏；具体投靠和操纵待核。",
+      "claim_type": "机构与案件主张",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "李鹏",
+        "曾庆红",
+        "张万年",
+        "迟浩田",
+        "罗干",
+        "刘淇",
+        "高严",
+        "李小勇",
+        "李新良"
+      ]
+    },
+    {
+      "start_seconds": 2520,
+      "end_seconds": 2580,
+      "title": "军队经营与武警",
+      "summary": "节目将李新良任职、李佩瑶遇害、1998年抗洪、军队停办经商和阅兵视为江泽民掌军步骤；事件可核，私人意图待核。",
+      "claim_type": "军队改革解释",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "邓小平",
+        "李佩瑶"
+      ]
+    },
+    {
+      "start_seconds": 2580,
+      "end_seconds": 2640,
+      "title": "情报系统与纪检人事",
+      "summary": "主播提叶选宁、许永跃、姬胜德、熊光楷、曾庆红和韩杼滨，称情报与组织系统被集中；任职与案件可核，派系忠诚待核。",
+      "claim_type": "机构与案件主张",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "陈云",
+        "李鹏",
+        "刘华清",
+        "丁关根",
+        "罗干",
+        "叶选宁",
+        "许永跃",
+        "姬胜德",
+        "熊光楷",
+        "韩杼滨"
+      ]
+    },
+    {
+      "start_seconds": 2640,
+      "end_seconds": 2700,
+      "title": "宣传、政法与地方反腐",
+      "summary": "节目列举刘云山、王兆国、胡长清、成克杰等人及政法、地方人事与财政安排；公开事件可核，个人操控因果待核。",
+      "claim_type": "政策与案件解释",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "李瑞环",
+        "刘云山",
+        "王兆国",
+        "胡长清",
+        "成克杰"
+      ]
+    },
+    {
+      "start_seconds": 2700,
+      "end_seconds": 2760,
+      "title": "领袖宣传与十六大前夕",
+      "summary": "主播讲邓小平理论、三个代表和2002年十六大布局，把李瑞环离任解释为江泽民劝退；制度文本可核，幕后动机待核。",
+      "claim_type": "思想与换届解释",
+      "verification": "部分可核",
+      "people": [
+        "江泽民",
+        "邓小平",
+        "李瑞环",
+        "胡锦涛"
+      ]
+    },
+    {
+      "start_seconds": 2760,
+      "end_seconds": 2820,
+      "title": "结语",
+      "summary": "节目称江泽民留任军委主席并在党内留下人事影响，这属于主播对2002年格局的解释；末尾有频道宣传。",
+      "claim_type": "总结评价",
+      "verification": "部分可核",
+      "people": [
+        "江泽民"
+      ]
+    },
+    {
+      "start_seconds": 2820,
+      "end_seconds": 2858,
+      "title": "片尾历史影像",
+      "summary": "片尾为江泽民视察或慰问的历史音频片段，无新的清晰具名人物；不据此新增关系。",
+      "claim_type": "片尾引文",
+      "verification": "片段未核",
+      "people": [
+        "江泽民"
+      ]
+    }
+  ],
+  "unresolved": [
+    [
+      "江泽民生父与祖父",
+      "02:00–03:00",
+      "文稿只叙述亲属和职务，未给完整姓名；不由江上青养父身份推出生父。"
+    ],
+    [
+      "汪道涵夫人",
+      "08:00–09:00",
+      "文稿未给姓名，也未提供可定位的直接材料。"
+    ],
+    [
+      "李先念所谓婚外伴侣及孩子",
+      "09:00–10:00",
+      "主播明确称坊间传言；不猜身份、不建立亲属关系。"
+    ],
+    [
+      "陈国栋秘书、胡立教儿子",
+      "06:00–07:00",
+      "仅有职务和亲属称谓，不能推定实名。"
+    ],
+    [
+      "引用“我听父亲说过”的说话人及父亲",
+      "15:00–16:00",
+      "插入语音没有清楚交代说话人，不能指定来源。"
+    ],
+    [
+      "建国门事件涉事军人",
+      "32:00–33:00",
+      "文稿只称连长；不从事件背景补入未提及的实名。"
+    ],
+    [
+      "中央办公厅两位未具名秘书",
+      "18:00–19:00",
+      "文稿以邓小平和杨尚昆的秘书称呼，未直接点名。"
+    ]
+  ]
+}

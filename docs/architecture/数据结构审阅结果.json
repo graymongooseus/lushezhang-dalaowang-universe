@@ -1,0 +1,310 @@
+{
+  "captured_at": "2026-09-23T17:53:19.651321+00:00",
+  "schema_version": 7,
+  "queries": {
+    "counts": "SELECT 'people' AS entity,COUNT(*) AS n FROM people\nUNION ALL SELECT 'relationships',COUNT(*) FROM relationships\nUNION ALL SELECT 'sources',COUNT(*) FROM sources\nUNION ALL SELECT 'appointments',COUNT(*) FROM appointments\nUNION ALL SELECT 'education',COUNT(*) FROM education\nUNION ALL SELECT 'relationship_evidence',COUNT(*) FROM relationship_evidence\nUNION ALL SELECT 'video_segments',COUNT(*) FROM video_segments\nUNION ALL SELECT 'change_log',COUNT(*) FROM change_log",
+    "tables": "SELECT name FROM sqlite_master WHERE type='table' ORDER BY name",
+    "identity_constraint": "SELECT sql FROM sqlite_master WHERE type='table' AND name='people'",
+    "relationship_status": "SELECT status,COUNT(*) AS n FROM relationships GROUP BY status",
+    "period_time": "SELECT temporal_mode,COUNT(*) AS n FROM relationship_periods GROUP BY temporal_mode",
+    "appointment_coverage": "SELECT COUNT(*) AS n,COUNT(DISTINCT person_id) AS covered_people,\nSUM(start_date IS NULL) AS unknown_start,SUM(end_date IS NULL) AS unknown_end,\nCOUNT(DISTINCT organization) AS organization_strings FROM appointments",
+    "education_coverage": "SELECT COUNT(*) AS n,COUNT(DISTINCT person_id) AS covered_people FROM education",
+    "evidence_coverage": "SELECT COUNT(*) AS relationships_without_evidence FROM relationships r\nWHERE NOT EXISTS(SELECT 1 FROM relationship_evidence e WHERE e.relationship_id=r.id)",
+    "primary_factions": "SELECT f.name,COUNT(*) AS n FROM people p\nJOIN factions f ON f.id=p.primary_faction_id GROUP BY f.id ORDER BY n DESC",
+    "video_coverage": "SELECT COUNT(*) AS video_sources,SUM(v.source_id IS NOT NULL) AS structured_analyses\nFROM sources s LEFT JOIN video_analyses v ON v.source_id=s.id\nWHERE s.source_type LIKE '%视频%'",
+    "source_completeness": "SELECT COUNT(*) AS n,SUM(published_at IS NULL) AS unknown_published_at,\nSUM(url IS NULL OR trim(url)='') AS missing_url FROM sources",
+    "locator_completeness": "SELECT COUNT(*) AS n,SUM(locator IS NULL OR trim(locator)='') AS missing_locator\nFROM relationship_evidence",
+    "highest_pointer_ownership": "SELECT p.id FROM people p\nLEFT JOIN education e ON e.id=p.highest_education_id\nLEFT JOIN appointments a ON a.id=p.highest_appointment_id\nWHERE e.person_id!=p.id OR a.person_id!=p.id",
+    "unverified_state_change": "SELECT id FROM person_events\nWHERE verification!='公开证据支持' AND status_value IS NOT NULL",
+    "integrity": "PRAGMA integrity_check",
+    "foreign_keys": "PRAGMA foreign_key_check"
+  },
+  "results": {
+    "counts": [
+      {
+        "entity": "people",
+        "n": 103
+      },
+      {
+        "entity": "relationships",
+        "n": 86
+      },
+      {
+        "entity": "sources",
+        "n": 143
+      },
+      {
+        "entity": "appointments",
+        "n": 111
+      },
+      {
+        "entity": "education",
+        "n": 17
+      },
+      {
+        "entity": "relationship_evidence",
+        "n": 118
+      },
+      {
+        "entity": "video_segments",
+        "n": 111
+      },
+      {
+        "entity": "change_log",
+        "n": 1328
+      }
+    ],
+    "tables": [
+      {
+        "name": "appointments"
+      },
+      {
+        "name": "change_log"
+      },
+      {
+        "name": "classifications"
+      },
+      {
+        "name": "education"
+      },
+      {
+        "name": "excluded_people"
+      },
+      {
+        "name": "faction_memberships"
+      },
+      {
+        "name": "factions"
+      },
+      {
+        "name": "family_research"
+      },
+      {
+        "name": "identity_checks"
+      },
+      {
+        "name": "kinship_links"
+      },
+      {
+        "name": "mentions"
+      },
+      {
+        "name": "observations"
+      },
+      {
+        "name": "people"
+      },
+      {
+        "name": "person_classifications"
+      },
+      {
+        "name": "person_events"
+      },
+      {
+        "name": "relationship_evidence"
+      },
+      {
+        "name": "relationship_periods"
+      },
+      {
+        "name": "relationships"
+      },
+      {
+        "name": "segment_people"
+      },
+      {
+        "name": "site_settings"
+      },
+      {
+        "name": "sources"
+      },
+      {
+        "name": "unresolved_mentions"
+      },
+      {
+        "name": "video_analyses"
+      },
+      {
+        "name": "video_segments"
+      }
+    ],
+    "identity_constraint": [
+      {
+        "sql": "CREATE TABLE people (\n id TEXT PRIMARY KEY,\n name TEXT NOT NULL UNIQUE,\n category TEXT NOT NULL,\n is_subject INTEGER NOT NULL DEFAULT 0 CHECK(is_subject IN (0,1)),\n aliases_json TEXT NOT NULL DEFAULT '[]',\n identity_note TEXT,\n highest_education_id TEXT REFERENCES education(id) DEFERRABLE INITIALLY DEFERRED,\n highest_appointment_id TEXT REFERENCES appointments(id) DEFERRABLE INITIALLY DEFERRED,\n profile_status TEXT NOT NULL DEFAULT '待补充',\n updated_at TEXT NOT NULL\n, primary_faction_id TEXT REFERENCES factions(id))"
+      }
+    ],
+    "relationship_status": [
+      {
+        "status": "主播公开态度",
+        "n": 2
+      },
+      {
+        "status": "主播单方陈述",
+        "n": 1
+      },
+      {
+        "status": "主播说法待核实",
+        "n": 45
+      },
+      {
+        "status": "主播说法，待核实",
+        "n": 2
+      },
+      {
+        "status": "公开历史报道支持",
+        "n": 1
+      },
+      {
+        "status": "公开访谈与履历支持",
+        "n": 1
+      },
+      {
+        "status": "公开访谈履历支持",
+        "n": 1
+      },
+      {
+        "status": "公开证据支持",
+        "n": 29
+      },
+      {
+        "status": "媒体转述，待交叉核实",
+        "n": 1
+      },
+      {
+        "status": "官方机构沿革支持",
+        "n": 1
+      },
+      {
+        "status": "本期合作有字幕支持",
+        "n": 1
+      },
+      {
+        "status": "说法冲突，待核实",
+        "n": 1
+      }
+    ],
+    "period_time": [
+      {
+        "temporal_mode": "interval",
+        "n": 2
+      },
+      {
+        "temporal_mode": "point",
+        "n": 19
+      },
+      {
+        "temporal_mode": "start_only",
+        "n": 1
+      },
+      {
+        "temporal_mode": "undated",
+        "n": 64
+      }
+    ],
+    "appointment_coverage": [
+      {
+        "n": 111,
+        "covered_people": 41,
+        "unknown_start": 23,
+        "unknown_end": 55,
+        "organization_strings": 87
+      }
+    ],
+    "education_coverage": [
+      {
+        "n": 17,
+        "covered_people": 14
+      }
+    ],
+    "evidence_coverage": [
+      {
+        "relationships_without_evidence": 0
+      }
+    ],
+    "primary_factions": [
+      {
+        "name": "派系待定",
+        "n": 80
+      },
+      {
+        "name": "贾庆林相关政治网络（主播主张）",
+        "n": 5
+      },
+      {
+        "name": "香港大D会社交圈",
+        "n": 4
+      },
+      {
+        "name": "习近平政治网络",
+        "n": 2
+      },
+      {
+        "name": "万科历史管理团队",
+        "n": 2
+      },
+      {
+        "name": "孟建柱工作网络",
+        "n": 2
+      },
+      {
+        "name": "鲁社长节目协作圈",
+        "n": 2
+      },
+      {
+        "name": "波场TRON商业网络",
+        "n": 1
+      },
+      {
+        "name": "拼多多商业网络",
+        "n": 1
+      },
+      {
+        "name": "美的商业网络",
+        "n": 1
+      },
+      {
+        "name": "刘仲敬思想与受众圈",
+        "n": 1
+      },
+      {
+        "name": "剑桥理论物理学术圈",
+        "n": 1
+      },
+      {
+        "name": "列治文前进联盟",
+        "n": 1
+      }
+    ],
+    "video_coverage": [
+      {
+        "video_sources": 5,
+        "structured_analyses": 2
+      }
+    ],
+    "source_completeness": [
+      {
+        "n": 143,
+        "unknown_published_at": 82,
+        "missing_url": 5
+      }
+    ],
+    "locator_completeness": [
+      {
+        "n": 118,
+        "missing_locator": 31
+      }
+    ],
+    "highest_pointer_ownership": [],
+    "unverified_state_change": [],
+    "integrity": [
+      {
+        "integrity_check": "ok"
+      }
+    ],
+    "foreign_keys": []
+  },
+  "files": {
+    "html_bytes": 7488152
+  },
+  "scope": "Schema and aggregate consistency checks; not independent verification of biography claims or production load testing."
+}
